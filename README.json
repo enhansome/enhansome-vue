@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 137078487,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:41:03Z",
+                "last_commit": "2026-08-24T09:39:11Z",
                 "owner": "vuejs",
                 "repo": "core",
-                "stars": 54238
+                "stars": 54243
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 260554261,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T15:22:31Z",
+                "last_commit": "2026-08-24T12:12:13Z",
                 "owner": "vuejs",
                 "repo": "language-tools",
                 "stars": 6713
@@ -69,7 +69,7 @@
                 "last_commit": "2026-01-14T10:52:48Z",
                 "owner": "unplugin",
                 "repo": "unplugin-icons",
-                "stars": 4933
+                "stars": 4934
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-18T15:51:35Z",
                 "owner": "vuejs",
                 "repo": "devtools",
-                "stars": 2893
+                "stars": 2894
               }
             },
             {
@@ -106,6 +106,72 @@
           "description": "These projects are exceptionally high quality, have a proven trackrecord, and are virtually indispensable.",
           "node_type": "group",
           "title": "Truly awesome projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TODOvue Blog",
+              "description": "Guides and tutorials on creating modern components with Vue.js. Website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1095370095,
+                "language": "Vue",
+                "last_commit": "2026-08-15T03:32:27Z",
+                "owner": "TODOvue",
+                "repo": "todo-vue",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "External Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vue.js Interview Questions",
+              "description": "A List of 300 VueJS Interview Questions and Answers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144107489,
+                "language": null,
+                "last_commit": "2026-04-27T16:52:22Z",
+                "owner": "sudheerj",
+                "repo": "vuejs-interview-questions",
+                "stars": 2711
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Job Portal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vue.js TodoMVC",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11730342,
+                "language": "TypeScript",
+                "last_commit": "2024-10-10T07:24:15Z",
+                "owner": "vuejs",
+                "repo": "vue",
+                "stars": 210476
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Examples"
         },
         {
           "children": [
@@ -278,7 +344,7 @@
                 "last_commit": "2026-02-25T14:39:25Z",
                 "owner": "antfu-collective",
                 "repo": "vitesse",
-                "stars": 9437
+                "stars": 9438
               }
             },
             {
@@ -308,7 +374,7 @@
                 "last_commit": "2026-08-20T04:51:40Z",
                 "owner": "umodoc",
                 "repo": "editor",
-                "stars": 1576
+                "stars": 1577
               }
             },
             {
@@ -636,7 +702,7 @@
                 "last_commit": "2026-08-24T04:52:54Z",
                 "owner": "slidevjs",
                 "repo": "slidev",
-                "stars": 48188
+                "stars": 48194
               }
             },
             {
@@ -651,7 +717,7 @@
                 "last_commit": "2026-06-14T12:57:40Z",
                 "owner": "qier222",
                 "repo": "YesPlayMusic",
-                "stars": 33192
+                "stars": 33191
               }
             },
             {
@@ -663,7 +729,7 @@
                 "archived": false,
                 "id": 65848095,
                 "language": "Vue",
-                "last_commit": "2026-08-24T00:52:12Z",
+                "last_commit": "2026-08-24T08:31:20Z",
                 "owner": "requarks",
                 "repo": "wiki",
                 "stars": 28789
@@ -678,10 +744,10 @@
                 "archived": false,
                 "id": 148129143,
                 "language": "PHP",
-                "last_commit": "2026-08-22T09:52:53Z",
+                "last_commit": "2026-08-24T11:44:31Z",
                 "owner": "bagisto",
                 "repo": "bagisto",
-                "stars": 27986
+                "stars": 27987
               }
             },
             {
@@ -696,7 +762,7 @@
                 "last_commit": "2026-08-21T12:22:27Z",
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26279
+                "stars": 26284
               }
             },
             {
@@ -741,7 +807,7 @@
                 "last_commit": "2026-08-22T13:35:45Z",
                 "owner": "koel",
                 "repo": "koel",
-                "stars": 17230
+                "stars": 17231
               }
             },
             {
@@ -753,10 +819,10 @@
                 "archived": false,
                 "id": 722152303,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T02:51:00Z",
+                "last_commit": "2026-08-24T11:59:55Z",
                 "owner": "jason5ng32",
                 "repo": "MyIP",
-                "stars": 11733
+                "stars": 11735
               }
             },
             {
@@ -771,7 +837,7 @@
                 "last_commit": "2026-07-21T15:09:13Z",
                 "owner": "zyronon",
                 "repo": "douyin",
-                "stars": 11530
+                "stars": 11532
               }
             },
             {
@@ -801,7 +867,7 @@
                 "last_commit": "2026-08-22T15:09:05Z",
                 "owner": "akaunting",
                 "repo": "akaunting",
-                "stars": 10087
+                "stars": 10088
               }
             },
             {
@@ -831,7 +897,7 @@
                 "last_commit": "2026-07-29T07:44:19Z",
                 "owner": "aimeos",
                 "repo": "aimeos",
-                "stars": 5449
+                "stars": 5450
               }
             },
             {
@@ -933,7 +999,7 @@
                 "archived": false,
                 "id": 366064221,
                 "language": "C#",
-                "last_commit": "2026-08-23T17:57:20Z",
+                "last_commit": "2026-08-24T13:20:15Z",
                 "owner": "grandnode",
                 "repo": "grandnode2",
                 "stars": 1326
@@ -996,7 +1062,7 @@
                 "last_commit": "2026-08-20T05:19:00Z",
                 "owner": "ifer47",
                 "repo": "markeron",
-                "stars": 926
+                "stars": 928
               }
             },
             {
@@ -1353,7 +1419,7 @@
                 "archived": false,
                 "id": 359757377,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T07:42:56Z",
+                "last_commit": "2026-08-24T13:48:04Z",
                 "owner": "empathyco",
                 "repo": "x",
                 "stars": 85
@@ -1570,10 +1636,10 @@
                 "archived": false,
                 "id": 108761645,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T07:44:05Z",
+                "last_commit": "2026-08-24T12:59:39Z",
                 "owner": "nocodb",
                 "repo": "nocodb",
-                "stars": 64692
+                "stars": 64701
               }
             },
             {
@@ -1712,6 +1778,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "CSS ColorVars",
+              "description": "Interactive tool code generation (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159846084,
+                "language": "Vue",
+                "last_commit": "2022-12-30T03:22:36Z",
+                "owner": "CSSColorVars",
+                "repo": "csscolorvars",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interactive Experiences"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "eslint-plugin-vuejs-accessibility",
               "description": "Vue.js accessibility eslint-plugin managed by @vue-a11y .",
               "children": [],
@@ -1794,10 +1882,10 @@
                     "archived": false,
                     "id": 67962648,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T03:29:07Z",
+                    "last_commit": "2026-08-24T13:48:15Z",
                     "owner": "vuetifyjs",
                     "repo": "vuetify",
-                    "stars": 41033
+                    "stars": 41035
                   }
                 },
                 {
@@ -1809,10 +1897,10 @@
                     "archived": false,
                     "id": 281319253,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T02:03:43Z",
+                    "last_commit": "2026-08-24T13:05:20Z",
                     "owner": "element-plus",
                     "repo": "element-plus",
-                    "stars": 27687
+                    "stars": 27690
                   }
                 },
                 {
@@ -1824,10 +1912,10 @@
                     "archived": false,
                     "id": 43695474,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-21T15:11:41Z",
+                    "last_commit": "2026-08-24T13:11:14Z",
                     "owner": "quasarframework",
                     "repo": "quasar",
-                    "stars": 27203
+                    "stars": 27205
                   }
                 },
                 {
@@ -1842,7 +1930,7 @@
                     "last_commit": "2026-08-21T19:39:08Z",
                     "owner": "vueComponent",
                     "repo": "ant-design-vue",
-                    "stars": 21624
+                    "stars": 21628
                   }
                 },
                 {
@@ -1857,7 +1945,7 @@
                     "last_commit": "2026-08-21T11:22:50Z",
                     "owner": "tusen-ai",
                     "repo": "naive-ui",
-                    "stars": 18504
+                    "stars": 18507
                   }
                 },
                 {
@@ -1887,7 +1975,7 @@
                     "last_commit": "2026-08-22T09:04:53Z",
                     "owner": "unovue",
                     "repo": "shadcn-vue",
-                    "stars": 10489
+                    "stars": 10488
                   }
                 },
                 {
@@ -1914,10 +2002,10 @@
                     "archived": false,
                     "id": 428329515,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T04:31:54Z",
+                    "last_commit": "2026-08-24T12:21:12Z",
                     "owner": "nuxt",
                     "repo": "ui",
-                    "stars": 6853
+                    "stars": 6854
                   }
                 },
                 {
@@ -1929,10 +2017,10 @@
                     "archived": false,
                     "id": 657119460,
                     "language": "Vue",
-                    "last_commit": "2026-08-24T01:12:55Z",
+                    "last_commit": "2026-08-24T08:06:55Z",
                     "owner": "unovue",
                     "repo": "reka-ui",
-                    "stars": 6740
+                    "stars": 6741
                   }
                 },
                 {
@@ -1962,7 +2050,7 @@
                     "last_commit": "2026-02-27T02:35:38Z",
                     "owner": "hug-sun",
                     "repo": "element3",
-                    "stars": 3271
+                    "stars": 3272
                   }
                 },
                 {
@@ -2239,7 +2327,7 @@
                     "last_commit": "2026-08-24T03:12:14Z",
                     "owner": "ionic-team",
                     "repo": "ionic-framework",
-                    "stars": 52627
+                    "stars": 52628
                   }
                 },
                 {
@@ -2251,7 +2339,7 @@
                     "archived": false,
                     "id": 140687430,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-24T04:54:55Z",
+                    "last_commit": "2026-08-24T13:39:20Z",
                     "owner": "dcloudio",
                     "repo": "uni-app",
                     "stars": 41599
@@ -2415,10 +2503,10 @@
                     "archived": false,
                     "id": 278772719,
                     "language": "Vue",
-                    "last_commit": "2026-08-23T07:55:22Z",
+                    "last_commit": "2026-08-24T13:20:00Z",
                     "owner": "vbenjs",
                     "repo": "vue-vben-admin",
-                    "stars": 33206
+                    "stars": 33215
                   }
                 },
                 {
@@ -2448,7 +2536,7 @@
                     "last_commit": "2026-08-13T10:11:13Z",
                     "owner": "soybeanjs",
                     "repo": "soybean-admin",
-                    "stars": 14875
+                    "stars": 14878
                   }
                 },
                 {
@@ -2478,7 +2566,7 @@
                     "last_commit": "2026-07-29T09:55:36Z",
                     "owner": "HalseySpicy",
                     "repo": "Geeker-Admin",
-                    "stars": 8069
+                    "stars": 8070
                   }
                 },
                 {
@@ -2670,6 +2758,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Nuxt.js",
+                  "description": "Versatile Vue.js Framework.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71995937,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T13:45:38Z",
+                    "owner": "nuxt",
+                    "repo": "nuxt",
+                    "stars": 60789
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Server-side rendering"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "VuePress",
                   "description": "Minimalistic Vue-powered static site generator.",
                   "children": [],
@@ -2680,7 +2790,7 @@
                     "last_commit": "2024-08-07T10:06:47Z",
                     "owner": "vuejs",
                     "repo": "vuepress",
-                    "stars": 22742
+                    "stars": 22741
                   }
                 },
                 {
@@ -2692,10 +2802,10 @@
                     "archived": false,
                     "id": 260338399,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T22:29:19Z",
+                    "last_commit": "2026-08-24T11:45:14Z",
                     "owner": "vuejs",
                     "repo": "vitepress",
-                    "stars": 18228
+                    "stars": 18230
                   }
                 },
                 {
@@ -3008,7 +3118,7 @@
                     "last_commit": "2026-08-22T18:38:47Z",
                     "owner": "TanStack",
                     "repo": "table",
-                    "stars": 28371
+                    "stars": 28375
                   }
                 },
                 {
@@ -3020,10 +3130,10 @@
                     "archived": false,
                     "id": 28407613,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T21:23:32Z",
+                    "last_commit": "2026-08-24T13:39:04Z",
                     "owner": "ag-grid",
                     "repo": "ag-grid",
-                    "stars": 15560
+                    "stars": 15561
                   }
                 },
                 {
@@ -3745,6 +3855,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "vue3-marquee",
+                  "description": "A simple and responsive marquee component for Vue 3 applications with 0 dependencies.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 414863710,
+                    "language": "Vue",
+                    "last_commit": "2025-12-02T02:37:15Z",
+                    "owner": "megasanjay",
+                    "repo": "vue3-marquee",
+                    "stars": 777
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Marquee"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "vue-bottom-sheet",
                   "description": "A swipeable bottom sheet component for Vue.js created with Hammer.js",
                   "children": [],
@@ -4203,7 +4335,7 @@
                     "last_commit": "2026-08-14T22:14:54Z",
                     "owner": "schedule-x",
                     "repo": "schedule-x",
-                    "stars": 2536
+                    "stars": 2537
                   }
                 },
                 {
@@ -4521,10 +4653,10 @@
                     "archived": false,
                     "id": 549650165,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T02:14:39Z",
+                    "last_commit": "2026-08-24T13:39:01Z",
                     "owner": "inokawa",
                     "repo": "virtua",
-                    "stars": 3723
+                    "stars": 3724
                   }
                 },
                 {
@@ -4573,10 +4705,10 @@
                     "archived": false,
                     "id": 988222683,
                     "language": "Vue",
-                    "last_commit": "2026-08-24T03:16:37Z",
+                    "last_commit": "2026-08-24T10:58:38Z",
                     "owner": "Simon-He95",
                     "repo": "markstream-vue",
-                    "stars": 2956
+                    "stars": 2957
                   }
                 },
                 {
@@ -4673,7 +4805,7 @@
                     "last_commit": "2026-08-16T13:27:32Z",
                     "owner": "jasy-pdf",
                     "repo": "jasy",
-                    "stars": 41
+                    "stars": 42
                   }
                 }
               ],
@@ -4732,7 +4864,7 @@
                     "last_commit": "2026-07-14T08:09:05Z",
                     "owner": "bcakmakoglu",
                     "repo": "vue-flow",
-                    "stars": 6795
+                    "stars": 6796
                   }
                 },
                 {
@@ -4940,7 +5072,7 @@
                     "last_commit": "2026-08-13T07:05:44Z",
                     "owner": "tsparticles",
                     "repo": "tsparticles",
-                    "stars": 8960
+                    "stars": 8961
                   }
                 },
                 {
@@ -5291,6 +5423,28 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "vue-tel-input",
+                      "description": "International Telephone Input with Vue.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 114185334,
+                        "language": "CSS",
+                        "last_commit": "2026-03-19T14:28:16Z",
+                        "owner": "iamstevendao",
+                        "repo": "vue-tel-input",
+                        "stars": 899
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Phone Number Input Formatter"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
                       "title": "vue-scroll-picker",
                       "description": "A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.",
                       "children": [],
@@ -5599,7 +5753,7 @@
                         "last_commit": "2026-03-13T01:42:04Z",
                         "owner": "Alfred-Skyblue",
                         "repo": "vue-draggable-plus",
-                        "stars": 4012
+                        "stars": 4011
                       }
                     },
                     {
@@ -5681,6 +5835,28 @@
                   "description": null,
                   "node_type": "group",
                   "title": "Drag and Drop"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "v-image",
+                      "description": "camera: Tiny little component for input type=file (< 1kb, gzipped)",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 104332958,
+                        "language": "TypeScript",
+                        "last_commit": "2026-08-16T18:37:50Z",
+                        "owner": "vinayakkulkarni",
+                        "repo": "v-image",
+                        "stars": 41
+                      }
+                    }
+                  ],
+                  "description": "Let the user select a tag / something while typing",
+                  "node_type": "group",
+                  "title": "Type Select"
                 },
                 {
                   "children": [
@@ -5849,10 +6025,10 @@
                         "archived": false,
                         "id": 145464445,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-24T03:44:53Z",
+                        "last_commit": "2026-08-24T10:21:29Z",
                         "owner": "ueberdosis",
                         "repo": "tiptap",
-                        "stars": 38137
+                        "stars": 38144
                       }
                     },
                     {
@@ -5934,7 +6110,7 @@
                         "last_commit": "2026-03-09T12:44:41Z",
                         "owner": "xyxiao001",
                         "repo": "vue-cropper",
-                        "stars": 4560
+                        "stars": 4559
                       }
                     },
                     {
@@ -6046,6 +6222,28 @@
                   "description": "Edit images\nDisplay images",
                   "node_type": "group",
                   "title": "Image Manipulation"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "vue-upload-component",
+                      "description": "Vue upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory. Supports Vue >= 2.0",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 59257347,
+                        "language": "Vue",
+                        "last_commit": "2026-08-12T16:34:59Z",
+                        "owner": "lian-yue",
+                        "repo": "vue-upload-component",
+                        "stars": 2688
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "File Upload"
                 },
                 {
                   "children": [
@@ -6222,6 +6420,50 @@
               "description": null,
               "node_type": "group",
               "title": "Canvas"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "link-prevue",
+                  "description": "Flexible component for generate a link preview.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115815517,
+                    "language": "Vue",
+                    "last_commit": "2026-08-11T15:56:06Z",
+                    "owner": "nivaldomartinez",
+                    "repo": "link-prevue",
+                    "stars": 248
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Link Preview"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vue-stage-play",
+                  "description": "Step-by-step guided tour components for Vue3.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 695900984,
+                    "language": "TypeScript",
+                    "last_commit": "2024-10-08T06:36:26Z",
+                    "owner": "f820602h",
+                    "repo": "vue-stage-play",
+                    "stars": 45
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tour"
             }
           ],
           "description": null,
@@ -6281,6 +6523,28 @@
               "description": "Handling of user events (scroll, click, key strike, ...)",
               "node_type": "group",
               "title": "Event Handling"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vue-responsive",
+                  "description": "Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 76814575,
+                    "language": "Vue",
+                    "last_commit": "2024-09-17T19:53:56Z",
+                    "owner": "reinerBa",
+                    "repo": "Vue-Responsive",
+                    "stars": 97
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Responsive Design"
             },
             {
               "children": [
@@ -6565,7 +6829,7 @@
                         "archived": false,
                         "id": 826797836,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-21T12:13:19Z",
+                        "last_commit": "2026-08-24T12:13:45Z",
                         "owner": "tada5hi",
                         "repo": "validup",
                         "stars": 4
@@ -6580,6 +6844,65 @@
               "description": null,
               "node_type": "group",
               "title": "Form"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vue-not-visible",
+                  "description": "Vue directive for removing from dom (like v-if) element on screen smaller than breakpoints.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 143918923,
+                    "language": "JavaScript",
+                    "last_commit": "2024-01-17T22:40:56Z",
+                    "owner": "PxyUp",
+                    "repo": "vue-not-visible",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Resize"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vuescroll",
+                  "description": "A scrolling plugin based on Vue.js for uniforming the scrolling in PC and mobile.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 98311526,
+                    "language": "JavaScript",
+                    "last_commit": "2024-08-05T06:41:51Z",
+                    "owner": "YvesCoding",
+                    "repo": "vuescroll",
+                    "stars": 1276
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vue-use-active-scroll",
+                  "description": "Highlight Vue 3 menu/sidebar links without compromises.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 582785023,
+                    "language": "TypeScript",
+                    "last_commit": "2026-06-20T04:24:31Z",
+                    "owner": "smastrom",
+                    "repo": "vue-use-active-scroll",
+                    "stars": 99
+                  }
+                }
+              ],
+              "description": "Virtual scrollbar\nDetect when components enter viewport",
+              "node_type": "group",
+              "title": "Scroll"
             },
             {
               "children": [
@@ -6871,7 +7194,7 @@
                     "last_commit": "2026-07-10T16:08:00Z",
                     "owner": "formkit",
                     "repo": "auto-animate",
-                    "stars": 13904
+                    "stars": 13906
                   }
                 },
                 {
@@ -6916,7 +7239,7 @@
                     "last_commit": "2026-08-19T05:46:54Z",
                     "owner": "meursyphus",
                     "repo": "ssgoi",
-                    "stars": 958
+                    "stars": 959
                   }
                 },
                 {
@@ -7048,6 +7371,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Unhead",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 560697479,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-23T19:43:28Z",
+                    "owner": "unjs",
+                    "repo": "unhead",
+                    "stars": 1304
+                  }
+                }
+              ],
+              "description": "Manage meta information in the document head",
+              "node_type": "group",
+              "title": "Meta Tags"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "vue-svgicon",
                   "description": "A tool to create svg icon components. (vue 2.x).",
                   "children": [],
@@ -7088,13 +7433,35 @@
                     "last_commit": "2026-06-08T13:08:16Z",
                     "owner": "respeak-io",
                     "repo": "lucide-motion-vue",
-                    "stars": 51
+                    "stars": 52
                   }
                 }
               ],
               "description": null,
               "node_type": "group",
               "title": "SVG"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "v-github-icon",
+                  "description": "easily add \"that\" tiny GitHub icon on the right/left corner of your Vue components/libraries demos' 🤙",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 265044756,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-16T18:38:12Z",
+                    "owner": "vinayakkulkarni",
+                    "repo": "v-github-icon",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Miscellaneous"
             },
             {
               "children": [
@@ -7110,7 +7477,7 @@
                     "last_commit": "2026-08-17T22:09:44Z",
                     "owner": "Tresjs",
                     "repo": "tres",
-                    "stars": 3667
+                    "stars": 3669
                   }
                 },
                 {
@@ -7132,6 +7499,50 @@
               "description": null,
               "node_type": "group",
               "title": "WebGL"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vue-fullscreen",
+                  "description": "A simple Vue component for fullscreen, support Vue2 and Vue3.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 98511669,
+                    "language": "Vue",
+                    "last_commit": "2024-10-25T00:10:41Z",
+                    "owner": "mirari",
+                    "repo": "vue-fullscreen",
+                    "stars": 433
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Fullscreen"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vue-to-print",
+                  "description": "Print Vue 3 components in the browser. Supports Chrome, Safari, Firefox and EDGE.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 668099106,
+                    "language": "TypeScript",
+                    "last_commit": "2025-09-04T02:40:49Z",
+                    "owner": "siaikin",
+                    "repo": "vue-to-print",
+                    "stars": 77
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Printing"
             }
           ],
           "description": null,
@@ -7219,6 +7630,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "vue-facing-decorator",
+                  "description": "Vue 3 typescript class component decorators, like in Vue 2.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 498305759,
+                    "language": "TypeScript",
+                    "last_commit": "2026-03-22T18:37:56Z",
+                    "owner": "facing-dev",
+                    "repo": "vue-facing-decorator",
+                    "stars": 400
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Typescript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "tanstack-query",
                   "description": "Powerful asynchronous state management.",
                   "children": [],
@@ -7226,10 +7659,10 @@
                     "archived": false,
                     "id": 207645083,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T01:58:25Z",
+                    "last_commit": "2026-08-24T13:24:07Z",
                     "owner": "TanStack",
                     "repo": "query",
-                    "stars": 50192
+                    "stars": 50197
                   }
                 },
                 {
@@ -7274,7 +7707,7 @@
                     "last_commit": "2025-03-14T01:57:35Z",
                     "owner": "AttoJS",
                     "repo": "vue-request",
-                    "stars": 1401
+                    "stars": 1398
                   }
                 },
                 {
@@ -7326,7 +7759,7 @@
                     "last_commit": "2024-12-13T10:59:15Z",
                     "owner": "lokalise",
                     "repo": "i18n-ally",
-                    "stars": 4894
+                    "stars": 4895
                   }
                 },
                 {
@@ -7353,7 +7786,7 @@
                     "archived": false,
                     "id": 776924173,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T04:33:46Z",
+                    "last_commit": "2026-08-24T07:53:08Z",
                     "owner": "aymericzip",
                     "repo": "intlayer",
                     "stars": 798
@@ -7550,6 +7983,28 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "mobx-vue-lite",
+                      "description": "Lightweight Vue 3 bindings for MobX based on Composition API.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 405403451,
+                        "language": "TypeScript",
+                        "last_commit": "2024-08-10T06:54:11Z",
+                        "owner": "mobxjs",
+                        "repo": "mobx-vue-lite",
+                        "stars": 80
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Mobx"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
                       "title": "pinia-orm",
                       "description": "The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍",
                       "children": [],
@@ -7647,6 +8102,28 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "vue-auth-href",
+                      "description": "A VueJS directive for downloading files that are under a protected route schema",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 199433474,
+                        "language": "TypeScript",
+                        "last_commit": "2026-06-15T17:53:54Z",
+                        "owner": "nachodd",
+                        "repo": "vue-auth-href",
+                        "stars": 18
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Authentication/Authorization"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
                       "title": "jsonapi-vuex",
                       "description": "Use a JSONAPI api with a Vuex store, with client-side restructuring/normalization of records.",
                       "children": [],
@@ -7689,6 +8166,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "vue-apollo",
+                  "description": "Apollo/GraphQL integration for VueJS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 68540295,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-06T11:58:07Z",
+                    "owner": "vuejs",
+                    "repo": "apollo",
+                    "stars": 6033
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GraphQL"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "eslint-plugin-vue",
                   "description": "Eslint plugin for Vue.js projects.",
                   "children": [],
@@ -7696,7 +8195,7 @@
                     "archived": false,
                     "id": 66855798,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T00:52:14Z",
+                    "last_commit": "2026-08-24T06:56:50Z",
                     "owner": "vuejs",
                     "repo": "eslint-plugin-vue",
                     "stars": 4592
@@ -7726,7 +8225,7 @@
                     "archived": false,
                     "id": 486774121,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-14T12:43:22Z",
+                    "last_commit": "2026-08-24T12:43:01Z",
                     "owner": "FloEdelmann",
                     "repo": "vue-ts-types",
                     "stars": 13
@@ -7736,6 +8235,28 @@
               "description": "Improve readability of code",
               "node_type": "group",
               "title": "Code Style"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "fela-vue",
+                  "description": "CSS-IN-JS mixin for Vue designed for flexibility yet team-oriented.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 174563734,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-28T05:12:27Z",
+                    "owner": "houd1ni",
+                    "repo": "fela-vue",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CSS"
             },
             {
               "children": [
@@ -7803,6 +8324,28 @@
               "description": "Utilities for building / compiling / bundling / loading assets",
               "node_type": "group",
               "title": "Asset Management"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vue-page-stack",
+                  "description": "Routing and navigation for your Vue SPA. Vue 单页应用导航管理器",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 166778987,
+                    "language": "JavaScript",
+                    "last_commit": "2026-06-19T22:16:29Z",
+                    "owner": "hezhongfeng",
+                    "repo": "vue-page-stack",
+                    "stars": 767
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Page Navigation"
             },
             {
               "children": [
@@ -8011,6 +8554,50 @@
                 "repo": "sdks",
                 "stars": 3
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vue-cli-plugin-chrome-extension-cli",
+                  "description": "Vue CLI Plugin generate chrome extension template",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 363581275,
+                    "language": "JavaScript",
+                    "last_commit": "2024-03-13T04:57:50Z",
+                    "owner": "sanyu1225",
+                    "repo": "vue-cli-plugin-chrome-extension-cli",
+                    "stars": 310
+                  }
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "vue-gtag",
+                      "description": "Global Site Tag plugin for Vue",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 109530943,
+                        "language": "TypeScript",
+                        "last_commit": "2026-04-25T16:18:15Z",
+                        "owner": "MatteoGabriele",
+                        "repo": "vue-gtag",
+                        "stars": 939
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Google Analytics"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Vue CLI Plugins"
             }
           ],
           "description": "Integrate with services or other frameworks",
@@ -8028,7 +8615,7 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T00:30:34Z",
+                "last_commit": "2026-08-24T13:47:22Z",
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18460
@@ -8108,7 +8695,7 @@
                     "last_commit": "2026-06-08T12:41:59Z",
                     "owner": "webfansplz",
                     "repo": "vite-plugin-vue-inspector",
-                    "stars": 805
+                    "stars": 806
                   }
                 },
                 {
@@ -8179,10 +8766,10 @@
                     "archived": false,
                     "id": 434708679,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T00:31:10Z",
+                    "last_commit": "2026-08-24T13:38:54Z",
                     "owner": "vitest-dev",
                     "repo": "vitest",
-                    "stars": 16997
+                    "stars": 17001
                   }
                 },
                 {
@@ -8209,7 +8796,7 @@
                     "archived": false,
                     "id": 853317416,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-17T12:01:10Z",
+                    "last_commit": "2026-08-24T12:57:26Z",
                     "owner": "tjw-lint",
                     "repo": "vue3-snapshot-serializer",
                     "stars": 16
@@ -8241,6 +8828,28 @@
                   "children": [
                     {
                       "node_type": "item",
+                      "title": "Vim Vue",
+                      "description": "Syntax Highlight for Vue.js components.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 43940141,
+                        "language": "Vim Script",
+                        "last_commit": "2024-03-30T11:53:18Z",
+                        "owner": "posva",
+                        "repo": "vim-vue",
+                        "stars": 1278
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Vim"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
                       "title": "Vue Language Tools (Volar)",
                       "description": "⚡The Fastest Vue Language Support Extension",
                       "children": [],
@@ -8248,7 +8857,7 @@
                         "archived": false,
                         "id": 260554261,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-23T15:22:31Z",
+                        "last_commit": "2026-08-24T12:12:13Z",
                         "owner": "vuejs",
                         "repo": "language-tools",
                         "stars": 6713
@@ -8273,6 +8882,28 @@
                   "description": null,
                   "node_type": "group",
                   "title": "Visual Studio Code"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Vue.js support for WebStorm",
+                      "description": ", IntelliJ IDEA, PhpStorm, PyCharm & RubyMine – official Vue.js support by JetBrains",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 5453324,
+                        "language": "JavaScript",
+                        "last_commit": "2026-08-24T13:42:18Z",
+                        "owner": "JetBrains",
+                        "repo": "intellij-plugins",
+                        "stars": 2266
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Intellij"
                 }
               ],
               "description": "Text editor plugins",
@@ -8295,10 +8926,10 @@
                 "archived": false,
                 "id": 257485422,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T04:37:05Z",
+                "last_commit": "2026-08-24T04:58:55Z",
                 "owner": "vitejs",
                 "repo": "vite",
-                "stars": 82499
+                "stars": 82506
               }
             },
             {
@@ -8325,7 +8956,7 @@
                 "archived": false,
                 "id": 385860117,
                 "language": "Vue",
-                "last_commit": "2026-08-24T02:57:07Z",
+                "last_commit": "2026-08-24T07:39:05Z",
                 "owner": "vuejs",
                 "repo": "create-vue",
                 "stars": 4391
@@ -8440,6 +9071,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Vue.js/Nuxt.js full-featured boilerplate",
+                  "description": "professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 124858471,
+                    "language": "Vue",
+                    "last_commit": "2026-08-14T22:52:34Z",
+                    "owner": "GrabarzUndPartner",
+                    "repo": "gp-vue-boilerplate",
+                    "stars": 129
+                  }
+                }
+              ],
+              "description": "Render Vue application to HTML on the server and to the DOM in the browser",
+              "node_type": "group",
+              "title": "Universal"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "electron-vite-vue",
                   "description": "Really simple Electron + Vite + Vue boilerplate.",
                   "children": [],
@@ -8507,13 +9160,35 @@
           "description": "Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator",
           "node_type": "group",
           "title": "Scaffold"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vue-genesis",
+              "description": "🔥Micro front end, micro service and lightweight solution based on Vue SSR🔥",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252901763,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T08:30:41Z",
+                "owner": "esmnext",
+                "repo": "esmx",
+                "stars": 677
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prerendering"
         }
       ],
       "title": "Components & Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:58:21.213Z",
+    "last_updated": "2026-08-24T13:48:33.553Z",
     "original_repository": "vuejs/awesome-vue",
     "original_repository_id": 44571718,
     "original_repository_sha": "4314013579667818093d3af094b68ed50479d9e1",
