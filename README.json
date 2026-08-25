@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 260554261,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:36:51Z",
+                "last_commit": "2026-08-25T05:08:06Z",
                 "owner": "vuejs",
                 "repo": "language-tools",
                 "stars": 6714
@@ -165,7 +165,7 @@
                 "last_commit": "2024-10-10T07:24:15Z",
                 "owner": "vuejs",
                 "repo": "vue",
-                "stars": 210669
+                "stars": 210690
               }
             }
           ],
@@ -732,7 +732,7 @@
                 "last_commit": "2026-08-25T04:50:01Z",
                 "owner": "requarks",
                 "repo": "wiki",
-                "stars": 28791
+                "stars": 28792
               }
             },
             {
@@ -792,7 +792,7 @@
                 "last_commit": "2026-08-12T08:57:49Z",
                 "owner": "dailydotdev",
                 "repo": "daily",
-                "stars": 20035
+                "stars": 20036
               }
             },
             {
@@ -807,7 +807,7 @@
                 "last_commit": "2026-08-22T13:35:45Z",
                 "owner": "koel",
                 "repo": "koel",
-                "stars": 17229
+                "stars": 17230
               }
             },
             {
@@ -822,7 +822,7 @@
                 "last_commit": "2026-08-25T02:57:57Z",
                 "owner": "jason5ng32",
                 "repo": "MyIP",
-                "stars": 11738
+                "stars": 11739
               }
             },
             {
@@ -852,7 +852,7 @@
                 "last_commit": "2026-06-09T12:03:34Z",
                 "owner": "vuestorefront",
                 "repo": "vue-storefront",
-                "stars": 10942
+                "stars": 10940
               }
             },
             {
@@ -1900,7 +1900,7 @@
                     "last_commit": "2026-08-24T13:05:20Z",
                     "owner": "element-plus",
                     "repo": "element-plus",
-                    "stars": 27693
+                    "stars": 27694
                   }
                 },
                 {
@@ -2017,7 +2017,7 @@
                     "archived": false,
                     "id": 657119460,
                     "language": "Vue",
-                    "last_commit": "2026-08-25T04:44:17Z",
+                    "last_commit": "2026-08-25T05:10:46Z",
                     "owner": "unovue",
                     "repo": "reka-ui",
                     "stars": 6741
@@ -2536,7 +2536,7 @@
                     "last_commit": "2026-08-13T10:11:13Z",
                     "owner": "soybeanjs",
                     "repo": "soybean-admin",
-                    "stars": 14874
+                    "stars": 14875
                   }
                 },
                 {
@@ -4656,7 +4656,7 @@
                     "last_commit": "2026-08-25T01:53:38Z",
                     "owner": "inokawa",
                     "repo": "virtua",
-                    "stars": 3724
+                    "stars": 3725
                   }
                 },
                 {
@@ -6560,7 +6560,7 @@
                     "last_commit": "2026-07-24T19:21:10Z",
                     "owner": "formkit",
                     "repo": "formkit",
-                    "stars": 4756
+                    "stars": 4757
                   }
                 },
                 {
@@ -7378,7 +7378,7 @@
                     "archived": false,
                     "id": 560697479,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T04:49:57Z",
+                    "last_commit": "2026-08-25T05:41:05Z",
                     "owner": "unjs",
                     "repo": "unhead",
                     "stars": 1304
@@ -7659,7 +7659,7 @@
                     "archived": false,
                     "id": 207645083,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T04:34:27Z",
+                    "last_commit": "2026-08-25T05:18:54Z",
                     "owner": "TanStack",
                     "repo": "query",
                     "stars": 50200
@@ -8857,7 +8857,7 @@
                         "archived": false,
                         "id": 260554261,
                         "language": "TypeScript",
-                        "last_commit": "2026-08-25T04:36:51Z",
+                        "last_commit": "2026-08-25T05:08:06Z",
                         "owner": "vuejs",
                         "repo": "language-tools",
                         "stars": 6714
@@ -9188,7 +9188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:50:41.898Z",
+    "last_updated": "2026-08-25T05:42:39.734Z",
     "original_repository": "vuejs/awesome-vue",
     "original_repository_id": 44571718,
     "original_repository_sha": "4314013579667818093d3af094b68ed50479d9e1",
