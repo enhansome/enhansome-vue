@@ -4,7 +4,7 @@ Resource from plugin:github:github at repo://vuejs/awesome-vue/sha/14fa265df1bd0
 
 </p>
 
-## Awesome Vue.js [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,701 | 🐛 105 | 📅 2026-09-02 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/vuejs/awesome-vue)
+## Awesome Vue.js [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,230 | 🐛 105 | 📅 2026-09-02 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/vuejs/awesome-vue)
 
 > A curated list of awesome things related to Vue.js
 
@@ -154,9 +154,9 @@ Resource from plugin:github:github at repo://vuejs/awesome-vue/sha/14fa265df1bd0
 
 ### Official Resources
 
-* [Release Notes](https://github.com/vuejs/core/releases) ⭐ 54,822 | 🐛 944 | 🌐 TypeScript | 📅 2026-10-31
-* [Awesome Vite](https://github.com/vitejs/awesome-vite) ⭐ 17,285 | 🐛 153 | 🌐 JavaScript | 📅 2026-02-04
-* [IDE Language Support](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools) ⭐ 6,741 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-31
+* [Release Notes](https://github.com/vuejs/core/releases) ⭐ 55,019 | 🐛 944 | 🌐 TypeScript | 📅 2026-11-01
+* [Awesome Vite](https://github.com/vitejs/awesome-vite) ⭐ 17,287 | 🐛 153 | 🌐 JavaScript | 📅 2026-02-04
+* [IDE Language Support](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools) ⭐ 6,743 | 🐛 71 | 🌐 TypeScript | 📅 2026-11-01
 * [Documentation](https://vuejs.org/)
 * [API Reference](https://vuejs.org/api/)
 * [GitHub Repo](https://github.com/vuejs/)
@@ -169,7 +169,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 * [unplugin-icons](https://github.com/unplugin/unplugin-icons) ⭐ 4,959 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-11 - On-demand icon loader supporting all known popular icon sets
 * [Vue DevTools](https://github.com/vuejs/devtools) ⭐ 2,935 | 🐛 147 | 🌐 TypeScript | 📅 2026-10-30 - Browser devtools extension for debugging Vue.js applications.
-* [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,711 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-30 - Internationalization plugin for Vue.js
+* [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,711 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-01 - Internationalization plugin for Vue.js
 
 ### External Resources
 
@@ -270,7 +270,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 ### Official Examples
 
-* [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc) ⭐ 212,487 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10
+* [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc) ⭐ 212,491 | 🐛 637 | 🌐 TypeScript | 📅 2024-10-10
 
 ### Tutorials
 
@@ -427,7 +427,6 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 * [vue-feathers-chat](https://github.com/ErickPetru/vue-feathers-chat) ⭐ 48 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-10 A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
 * [vue-vuex-todomvc](https://github.com/bahmutov/vue-vuex-todomvc) ⭐ 47 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-31 - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
 * [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) ⭐ 45 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-24 A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io
-* [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) ⭐ 37 | 🐛 17 | 🌐 Python | 📅 2022-12-08 - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
 * [Skeleton Vue+TypeScript](https://github.com/SierraSoftworks/vue-template) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - TypeScript, VueJS, ElementUI, Vue Router, Vuex, Material Icons, BrowserSync, Dockerfile
 * [vue-stack-cesium](https://github.com/meschg/vue-stack-cesium) ⭐ 22 | 🐛 16 | 🌐 Vue | 📅 2026-10-25 - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 * [Maxim Web Chat](https://github.com/maxim-top/maxim-web) ⭐ 14 | 🐛 1 | 🌐 Vue | 📅 2026-09-10 - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天 App 示例.
@@ -435,6 +434,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 * [Vue Tic Tac Toe | Cerito Cruz](https://github.com/EduardoProfe666/cerito-cruz-vue) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-08 by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
 * [tab-toolkit](https://github.com/mioe/tab-toolkit) ⭐ 0 | 🐛 0 | 🌐 Vue | 📅 2025-05-25 - very small app-tool for beginner guitarists 🎸 (PWA | Pinia | UnoCSS) by [@mioe](https://github.com/mioe)
 * [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
+* [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
 * [vue-tetris (Use Vue, Vuex, Immutable to code Tetris)](https://binaryify.github.io/vue-tetris/) by [@Binaryify](https://github.com/Binaryify): Use Vue, Vuex, Immutable to code Tetris.
 * [route-planner-vue](https://kasheftin.github.io/route-planner-vue/) by [@Kasheftin](https://github.com/Kasheftin): The tool for planning routes with multiple sortable layers, draggable directions, markers and shapes on google map.
 * [VueJS Example Projects](https://github.com/vue-project) on Github
@@ -505,35 +505,35 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 ### Open Source
 
-* [slidev](https://github.com/slidevjs/slidev) ⭐ 49,306 | 🐛 220 | 🌐 TypeScript | 📅 2026-10-23 - Presentation Slides for Developers
+* [slidev](https://github.com/slidevjs/slidev) ⭐ 49,313 | 🐛 223 | 🌐 TypeScript | 📅 2026-10-23 - Presentation Slides for Developers
 
-* [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ⭐ 33,503 | 🐛 652 | 🌐 Vue | 📅 2026-10-10 - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
+* [YesPlayMusic](https://github.com/qier222/YesPlayMusic) ⭐ 33,513 | 🐛 654 | 🌐 Vue | 📅 2026-10-10 - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 
-* [Wiki.js](https://github.com/Requarks/wiki) ⭐ 29,112 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-31 - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+* [Wiki.js](https://github.com/Requarks/wiki) ⭐ 29,112 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-01 - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
 
-* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,312 | 🐛 32 | 🌐 PHP | 📅 2026-10-30 - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,317 | 🐛 32 | 🌐 PHP | 📅 2026-10-30 - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 
-* [Dashy](https://github.com/lissy93/dashy) ⭐ 26,879 | 🐛 14 | 🌐 Vue | 📅 2026-10-30 - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
+* [Dashy](https://github.com/lissy93/dashy) ⭐ 26,884 | 🐛 14 | 🌐 Vue | 📅 2026-10-31 - A self-hosted startpage, with an easy to use visual editor, status checking, themes, widgets and tons more
 
-* [Stack Edit](https://github.com/benweet/stackedit/) ⭐ 23,099 | 🐛 728 | 🌐 JavaScript | 📅 2023-07-04 - In-browser Markdown editor
+* [Stack Edit](https://github.com/benweet/stackedit/) ⭐ 23,098 | 🐛 728 | 🌐 JavaScript | 📅 2023-07-04 - In-browser Markdown editor
 
-* [Daily](https://github.com/dailynowco/daily) ⭐ 20,127 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-30 - Curated dev news delivered to your new tab 👩🏽‍💻
+* [Daily](https://github.com/dailynowco/daily) ⭐ 20,130 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-01 - Curated dev news delivered to your new tab 👩🏽‍💻
 
-* [Koel](https://github.com/phanan/koel) ⭐ 17,323 | 🐛 13 | 🌐 PHP | 📅 2026-10-30 - A personal music streaming server that works.
+* [Koel](https://github.com/phanan/koel) ⭐ 17,322 | 🐛 14 | 🌐 PHP | 📅 2026-10-30 - A personal music streaming server that works.
 
 * [MyIP](https://github.com/jason5ng32/MyIP) ⭐ 12,274 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-30 - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
 
 * [douyin](https://github.com/zyronon/douyin) ⭐ 11,552 | 🐛 24 | 🌐 Vue | 📅 2026-07-21 - Imitate TikTok ，Vue Best practices on Mobile
 
-* [vue-storefront](https://github.com/DivanteLtd/vue-storefront) ⭐ 10,960 | 🐛 51 | 📅 2026-06-09 - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
+* [vue-storefront](https://github.com/DivanteLtd/vue-storefront) ⭐ 10,961 | 🐛 51 | 📅 2026-06-09 - Vue.js Storefront - PWA for eCommerce. 100% offline, platform agnostic, headless, Magento2 supported.
 
-* [Akaunting](https://github.com/akaunting/akaunting) ⭐ 10,257 | 🐛 8 | 🌐 PHP | 📅 2026-10-30 - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
+* [Akaunting](https://github.com/akaunting/akaunting) ⭐ 10,261 | 🐛 6 | 🌐 PHP | 📅 2026-10-31 - A free and online accounting software for small businesses and freelancers based on Laravel and VueJS.
 
 * [nativescript-vue](https://github.com/rigor789/nativescript-vue) ⭐ 6,536 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-26 - A Vue.js implementation of the NativeScript renderer.
 
-* [Aimeos](https://github.com/aimeos/aimeos) ⭐ 5,471 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+* [Aimeos](https://github.com/aimeos/aimeos) ⭐ 5,472 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
-* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 5,089 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-30 - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
+* [MQTTX](https://github.com/emqx/MQTTX) ⭐ 5,090 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-30 - Cross-platform MQTT 5.0 desktop client built with Vue.js, Typescript and Electron.
 
 * [astralapp](https://github.com/astralapp/astral) ⭐ 3,592 | 🐛 40 | 🌐 PHP | 📅 2026-10-29 - Organize Your GitHub Stars With Ease.
 
@@ -541,19 +541,19 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 * [PJ Blog](https://github.com/jcc/blog) ⭐ 2,851 | 🐛 39 | 🌐 PHP | 📅 2023-06-08 - Open source blog built with Laravel and Vue.js.
 
-* [Antares SQL](https://github.com/Fabio286/antares) ⭐ 2,665 | 🐛 152 | 🌐 Vue | 📅 2025-10-14 - Cross platform SQL client made to be simple and complete.
+* [Antares SQL](https://github.com/Fabio286/antares) ⭐ 2,668 | 🐛 152 | 🌐 Vue | 📅 2025-10-14 - Cross platform SQL client made to be simple and complete.
 
 * [Paper-Dashboard](https://github.com/creativetimofficial/vue-paper-dashboard) ⭐ 1,790 | 🐛 5 | 🌐 Vue | 📅 2024-10-25 -Creative Tim Paper Dashboard made for Vue
 
-* [GrandNode 2.0](https://github.com/grandnode/grandnode2/) ⭐ 1,338 | 🐛 19 | 🌐 C# | 📅 2026-10-31 - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
+* [GrandNode 2.0](https://github.com/grandnode/grandnode2/) ⭐ 1,338 | 🐛 21 | 🌐 C# | 📅 2026-11-01 - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
 
 * [Laravel File Manager](https://github.com/alexusmai/laravel-file-manager) ⭐ 1,184 | 🐛 168 | 🌐 PHP | 📅 2026-05-12 - Powerful file manager for Laravel
 
-* [LogChimp](https://github.com/logchimp/logchimp) ⭐ 1,134 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-31 - Open-source software to track your customer's feedback to build better products.
+* [LogChimp](https://github.com/logchimp/logchimp) ⭐ 1,135 | 🐛 192 | 🌐 TypeScript | 📅 2026-11-01 - Open-source software to track your customer's feedback to build better products.
 
 * [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,091 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - SPA Admin Panel built with Bulma, VueJS and Laravel, packing lots of features out of the box.
 
-* [AI Gist](https://github.com/yarin-zhang/AI-Gist) ⭐ 909 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-29 - Local-first AI prompt manager built with Vue 3, Naive UI, Electron (desktop) and Capacitor (iOS/Android). Variable filling, Jinja templates, AI-assisted prompt generation, version history, and WebDAV/iCloud backup.
+* [AI Gist](https://github.com/yarin-zhang/AI-Gist) ⭐ 910 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-29 - Local-first AI prompt manager built with Vue 3, Naive UI, Electron (desktop) and Capacitor (iOS/Android). Variable filling, Jinja templates, AI-assisted prompt generation, version history, and WebDAV/iCloud backup.
 
 * [QMK Configurator](https://github.com/qmk/qmk_configurator) ⭐ 850 | 🐛 102 | 🌐 JavaScript | 📅 2026-01-28 - QMK Firmware Keyboard Configuration UI in Vue.js.
 
@@ -561,7 +561,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 * [Light Bootstrap Dashboard](https://github.com/creativetimofficial/vue-light-bootstrap-dashboard) ⭐ 771 | 🐛 5 | 🌐 SCSS | 📅 2024-08-05 - Creative Tim Light Bootstrap Dashboard made for Vue
 
-* [VueFinder File Library](https://github.com/n1crack/vuefinder) ⭐ 606 | 🐛 5 | 🌐 Vue | 📅 2026-10-29 - Web File Manager Library.
+* [VueFinder File Library](https://github.com/n1crack/vuefinder) ⭐ 606 | 🐛 4 | 🌐 Vue | 📅 2026-10-31 - Web File Manager Library.
 
 * [LeagueStats](https://github.com/vkaelin/LeagueStats) ⭐ 496 | 🐛 14 | 🌐 Vue | 📅 2026-07-17 - Statistics website for players of the online game League of Legends.
 
@@ -597,7 +597,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 * [Snippets.Ninja](https://github.com/dd3v/snippets.ninja) ⭐ 122 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-21 - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 
-* [DentalPin](https://github.com/martinezsalmeron/dentalpin) ⭐ 109 | 🐛 44 | 🌐 Python | 📅 2026-10-28 - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
+* [DentalPin](https://github.com/martinezsalmeron/dentalpin) ⭐ 109 | 🐛 45 | 🌐 Python | 📅 2026-10-28 - Dental clinic management platform with appointment scheduling and a modular plugin architecture, built with Nuxt 3 and FastAPI.
 
 * [Carpoolear](https://github.com/STS-Rosario/carpoolear) ⭐ 103 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-29 - The open source Vue.js frontend (mobile and cordova app) for the argentinian carpooling application: [Carpoolear](https://carpoolear.com.ar)
 
@@ -623,7 +623,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 * [vue-paho-mqtt](https://github.com/kaandesu/vue-paho-mqtt) ⭐ 29 | 🐛 7 | 🌐 TypeScript | 📅 2024-07-21 - Easy-to-use Paho MQTT client library for Vue 3 with centralized subscription management, type support, and built-in optional alert notification library.
 
-* [vixl](https://github.com/vixl-ai/vixl) ⭐ 22 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-30 - Local-first desktop coding agent, an alternative to Cursor, Antigravity, and VS Code agents. Built with Vue, TypeScript, and Tauri. Progressive tool discovery keeps local model prefills smaller.
+* [vixl](https://github.com/vixl-ai/vixl) ⭐ 22 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-31 - Local-first desktop coding agent, an alternative to Cursor, Antigravity, and VS Code agents. Built with Vue, TypeScript, and Tauri. Progressive tool discovery keeps local model prefills smaller.
 
 * [chrome-ribbon-reminder](https://github.com/johndatserakis/chrome-ribbon-reminder) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-28 - A Chrome extension written using Vue and Async/Await. Uses a popup display and changes badge counts.
 
@@ -653,7 +653,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 ### Commercial Products
 
-* [NocoDB](https://github.com/nocodb/nocodb) ⭐ 65,396 | 🐛 568 | 🌐 TypeScript | 📅 2026-10-31 - An opensource Airtable alternative.
+* [NocoDB](https://github.com/nocodb/nocodb) ⭐ 65,400 | 🐛 583 | 🌐 TypeScript | 📅 2026-11-01 - An opensource Airtable alternative.
 * [NxShell](https://github.com/nxshell/nxshell) ⭐ 1,257 | 🐛 147 | 🌐 JavaScript | 📅 2023-12-24 - An easy to use new terminal for SSH, which based on Electron and VueJS.
 * [Wijmo](https://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
 * [ChatWoot](https://www.chatwoot.com/) - Livechat and agent collaboration over Facebook messenger.
@@ -887,17 +887,17 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *Set of components + responsive layout system*
 
-* [vuetify](https://github.com/vuetifyjs/vuetify) ⭐ 41,029 | 🐛 331 | 🌐 TypeScript | 📅 2026-10-30 - Material Component Framework for Vue.js 2.
-* [Element Plus](https://github.com/element-plus/element-plus) ⭐ 27,831 | 🐛 1,173 | 🌐 TypeScript | 📅 2026-10-30 - A Vue 3 UI Framework.
-* [quasar-framework](https://github.com/quasarframework/quasar) ⭐ 27,211 | 🐛 61 | 🌐 JavaScript | 📅 2026-10-19 - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with Vue.js 3.
+* [vuetify](https://github.com/vuetifyjs/vuetify) ⭐ 41,029 | 🐛 332 | 🌐 TypeScript | 📅 2026-11-01 - Material Component Framework for Vue.js 2.
+* [Element Plus](https://github.com/element-plus/element-plus) ⭐ 27,834 | 🐛 1,175 | 🌐 TypeScript | 📅 2026-11-01 - A Vue 3 UI Framework.
+* [quasar-framework](https://github.com/quasarframework/quasar) ⭐ 27,212 | 🐛 61 | 🌐 JavaScript | 📅 2026-10-19 - Quasar Framework. Build responsive websites, hybrid mobile Apps and Electron apps using same code, with Vue.js 3.
 * [ant-design-vue](https://github.com/vueComponent/ant-design-vue) ⭐ 21,697 | 🐛 127 | 🌐 Vue | 📅 2026-10-22 - An enterprise-class UI components based on Ant Design and Vue 3.2.0
-* [Naive UI](https://github.com/TuSimple/naive-ui) ⭐ 18,597 | 🐛 712 | 🌐 TypeScript | 📅 2026-10-26 - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
-* [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) ⭐ 14,409 | 🐛 201 | 🌐 JavaScript | 📅 2026-04-02 - Bootstrap v4 components and grid system for Vue.js.
-* [shadcn-vue](https://github.com/unovue/shadcn-vue) ⭐ 10,756 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-28 - An unofficial, community-led Vue port of [shadcn/ui](https://github.com/shadcn-ui/ui) ⭐ 127,029 | 🐛 1,782 | 🌐 TypeScript | 📅 2026-10-31 (re-usable components built with Reka UI and Tailwind CSS).
-* [buefy](https://github.com/rafaelpimpa/buefy) ⭐ 9,507 | 🐛 75 | 🌐 Vue | 📅 2026-09-08 - Components based on Bulma framework.
+* [Naive UI](https://github.com/TuSimple/naive-ui) ⭐ 18,600 | 🐛 712 | 🌐 TypeScript | 📅 2026-10-26 - A Vue 3 Component Library Fairly Complete, Customizable Themes, Uses TypeScript, Not Too Slow Kinda Interesting
+* [BootstrapVue](https://github.com/bootstrap-vue/bootstrap-vue) ⭐ 14,409 | 🐛 202 | 🌐 JavaScript | 📅 2026-04-02 - Bootstrap v4 components and grid system for Vue.js.
+* [shadcn-vue](https://github.com/unovue/shadcn-vue) ⭐ 10,761 | 🐛 143 | 🌐 TypeScript | 📅 2026-10-28 - An unofficial, community-led Vue port of [shadcn/ui](https://github.com/shadcn-ui/ui) ⭐ 127,094 | 🐛 1,774 | 🌐 TypeScript | 📅 2026-10-31 (re-usable components built with Reka UI and Tailwind CSS).
+* [buefy](https://github.com/rafaelpimpa/buefy) ⭐ 9,508 | 🐛 75 | 🌐 Vue | 📅 2026-09-08 - Components based on Bulma framework.
 * [Nuxt UI](https://github.com/nuxt/ui) ⭐ 7,043 | 🐛 196 | 🌐 TypeScript | 📅 2026-10-30 - 125+ accessible and customizable components for Vue and Nuxt, built with Tailwind CSS and Reka UI.
-* [Reka UI](https://github.com/unovue/reka-ui) ⭐ 6,917 | 🐛 256 | 🌐 Vue | 📅 2026-10-31 - An open-source library of unstyled, accessible UI primitives for building high-quality design systems and web apps in Vue 3 (formerly Radix Vue).
-* [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) ⭐ 3,748 | 🐛 531 | 🌐 Vue | 📅 2026-05-09 - A Vue.js 3.0 UI customizable UI Framework.
+* [Reka UI](https://github.com/unovue/reka-ui) ⭐ 6,919 | 🐛 256 | 🌐 Vue | 📅 2026-11-01 - An open-source library of unstyled, accessible UI primitives for building high-quality design systems and web apps in Vue 3 (formerly Radix Vue).
+* [vuestic-ui](https://github.com/epicmaxco/vuestic-ui) ⭐ 3,749 | 🐛 531 | 🌐 Vue | 📅 2026-05-09 - A Vue.js 3.0 UI customizable UI Framework.
 * [element3](https://github.com/kkbjs/element3) ⭐ 3,268 | 🐛 46 | 🌐 JavaScript | 📅 2026-02-27 - A Vue.js 3.0 UI Toolkit for Web is based on element-ui
 * [heyui](https://github.com/heyui/heyui) ⭐ 2,537 | 🐛 57 | 🌐 Vue | 📅 2026-04-07 - (<https://www.heyui.top/en>) - A Vue.js 2.0 UI Toolkit for Web.
 * [Vexip UI](https://github.com/qmhc/vexip-ui) ⭐ 1,887 | 🐛 41 | 🌐 TypeScript | 📅 2026-09-13 - A Vue 3 UI Library, Highly customizable property values, Full TypeScript, Performance should be good.
@@ -909,7 +909,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 * [@Carbon/vue](https://github.com/carbon-design-system/carbon-components-vue) ⭐ 651 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-26 - Carbon Design System components from the @carbon team.
 * [CoreUI for Vue.js](https://github.com/coreui/coreui-vue) ⭐ 639 | 🐛 3 | 🌐 MDX | 📅 2026-10-27 - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components.
 * [Wave UI](https://github.com/antoniandre/wave-ui) ⭐ 568 | 🐛 9 | 🌐 Vue | 📅 2026-06-16 - An emerging UI framework for Vue.js with only the bright side. ☀️
-* [Maz-UI](https://github.com/LouisMazel/maz-ui) ⭐ 564 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-30 - Lightweight and efficient library for Vue 3 & Nuxt 3 & 4 with 50+ components, theming, i18n and useful plugins and composables.
+* [Maz-UI](https://github.com/LouisMazel/maz-ui) ⭐ 564 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-30 - Lightweight and efficient library for Vue 3 & Nuxt 3 & 4 with 50+ components, theming, i18n and useful plugins and composables.
 * [BalmUI](https://github.com/balmjs/balm-ui) ⭐ 507 | 🐛 26 | 🌐 SCSS | 📅 2026-09-21 - A modular and customizable UI library based on Material Design and Vue 3.0
 * [Qui-max](https://github.com/Qvant-lab/qui-max) ⭐ 281 | 🐛 20 | 🌐 Vue | 📅 2024-07-19 - A Vue 3.x Design System for Web
 * [vue-material-adapter](https://github.com/pgbross/vue-material-adapter) ⭐ 103 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-05 - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
@@ -932,8 +932,8 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *UI frameworks for mobile*
 
-* [Ionic](https://github.com/ionic-team/ionic-framework) ⭐ 52,734 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-30 - Mobile app development framework
-* [uni-app](https://github.com/dcloudio/uni-app) ⭐ 41,628 | 🐛 713 | 🌐 JavaScript | 📅 2026-10-30 - A cross-platform framework using Vue.js
+* [Ionic](https://github.com/ionic-team/ionic-framework) ⭐ 52,736 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-30 - Mobile app development framework
+* [uni-app](https://github.com/dcloudio/uni-app) ⭐ 41,631 | 🐛 713 | 🌐 JavaScript | 📅 2026-10-31 - A cross-platform framework using Vue.js
 * [Framework7-Vue](https://github.com/framework7io/framework7) ⭐ 18,773 | 🐛 236 | 🌐 JavaScript | 📅 2026-10-30 - Build full-featured iOS & Android apps using Framework7 & Vue.
 * [vue-onsenui](https://github.com/OnsenUI/OnsenUI) ⭐ 8,856 | 🐛 15 | 🌐 JavaScript | 📅 2026-06-17 - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
 * [Native script](https://github.com/nativescript-vue/nativescript-vue) ⭐ 6,536 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-26 - Native mobile applications using NativeScript
@@ -942,7 +942,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 *Set of components for mobile*
 
 * [vant](https://github.com/youzan/vant) ⭐ 24,406 | 🐛 235 | 🌐 TypeScript | 📅 2026-10-29 - A Vue.js 2.0 Mobile UI From YouZan.
-* [NutUI](https://github.com/jdf2e/nutui/) ⭐ 6,515 | 🐛 20 | 🌐 Vue | 📅 2026-04-02 - A Vue.js 2.0 UI Toolkit for Mobile Web
+* [NutUI](https://github.com/jdf2e/nutui/) ⭐ 6,516 | 🐛 20 | 🌐 Vue | 📅 2026-04-02 - A Vue.js 2.0 UI Toolkit for Mobile Web
 * [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
 * [mand-mobile](https://didi.github.io/mand-mobile) - A mobile UI toolkit, based on Vue.js 2, designed for financial scenes.
 * [Vy UI](https://vyui.dev) - Headless primitives and styled components for Vue Lynx, with a shadcn-style CLI for copying component source into your project.
@@ -966,16 +966,16 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *Set of admin template*
 
-* [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) ⭐ 33,718 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-31 - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
-* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) ⭐ 25,115 | 🐛 39 | 🌐 Go | 📅 2026-10-28 - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
-* [soybean-admin](https://github.com/soybeanjs/soybean-admin/blob/main/README.en_US.md) ⭐ 15,209 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-21 - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
-* [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) ⭐ 10,954 | 🐛 80 | 🌐 Vue | 📅 2026-02-26 - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
+* [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) ⭐ 33,718 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-01 - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
+* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) ⭐ 25,117 | 🐛 39 | 🌐 Go | 📅 2026-10-28 - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
+* [soybean-admin](https://github.com/soybeanjs/soybean-admin/blob/main/README.en_US.md) ⭐ 15,227 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-21 - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
+* [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) ⭐ 10,955 | 🐛 80 | 🌐 Vue | 📅 2026-02-26 - Vue Admin Dashboard built with Vue 3 and `vuestic-ui`.
 * [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) ⭐ 8,100 | 🐛 78 | 🌐 Vue | 📅 2026-07-29 - A set of open source backend management framework based on Vue3 + TypeScript + Element Plus. [Live demo](https://admin.spicyboy.cn)
 * [Admin One Vue 3 Tailwind dashboard](https://github.com/justboil/admin-one-vue-tailwind) ⭐ 2,469 | 🐛 34 | 🌐 Vue | 📅 2025-11-27 - Vue.js 3 Tailwind CSS admin template with dark mode.
 * [Vue Material Admin](https://github.com/tookit/vue-material-admin) ⭐ 2,347 | 🐛 22 | 🌐 Vue | 📅 2025-12-03 - A vue material design admin template [Online Demo](https://vma.isocked.com/#/dashboard)
 * [vue-admin-box](https://github.com/cmdparkour/vue-admin-box) ⭐ 1,840 | 🐛 1 | 🌐 Vue | 📅 2025-05-07 - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
 * [Materio-vuetify-vuejs-admin-template-free](https://github.com/themeselection/materio-vuetify-vuejs-admin-template-free) ⭐ 971 | 🐛 0 | 🌐 Vue | 📅 2025-01-01 - A Production ready, carefully crafted, most comprehensive Vuetify Vuejs admin template. [Live demo](https://themeselection.com/demo/materio-vuetify-vuejs-admin-template-free/demo/dashboard)
-* [dashboard](https://github.com/zce/dashboard) ⭐ 558 | 🐛 15 | 🌐 Vue | 📅 2026-10-31 - A dashboard scaffolding based on vue.js created by vuejs/vue-cli 4.x. [Online Demo](https://dashboard.zce.me)
+* [dashboard](https://github.com/zce/dashboard) ⭐ 558 | 🐛 15 | 🌐 Vue | 📅 2026-11-01 - A dashboard scaffolding based on vue.js created by vuejs/vue-cli 4.x. [Online Demo](https://dashboard.zce.me)
 * [Mosaic - Vue Admin TailwindCSS template](https://github.com/cruip/vuejs-admin-dashboard-template) ⭐ 314 | 🐛 0 | 🌐 Vue | 📅 2025-03-02 - The All-in-one Tailwind CSS Admin Dashboard Template.
 * [argon-dashboard-vue3](https://github.com/ltv/argon-dashboard-vue3) ⭐ 170 | 🐛 5 | 🌐 Vue | 📅 2025-08-20 - Template, Element Plus & TailwindCSS 3, Vue3.
 * [vue-pro-sidebar](https://github.com/boussadjra/vue-pro-sidebar) ⭐ 83 | 🐛 9 | 🌐 Vue | 📅 2026-06-19 : A responsive template starter with the ecosystem configuration (vue-router, vuex), this boilerplate allows you to choose your preferred colors. [Live demo](https://boussadjra.github.io/vue-pro-sidebar)
@@ -987,19 +987,19 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 #### Server-side rendering
 
-* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 61,005 | 🐛 477 | 🌐 TypeScript | 📅 2026-10-31 - Versatile Vue.js Framework.
+* [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 61,011 | 🐛 482 | 🌐 TypeScript | 📅 2026-11-01 - Versatile Vue.js Framework.
 
 #### Static website generator
 
 * [VuePress](https://github.com/vuejs/vuepress) ⭐ 22,713 | 🐛 604 | 🌐 JavaScript | 📅 2024-08-07 - Minimalistic Vue-powered static site generator.
-* [VitePress](https://github.com/vuejs/vitepress) ⭐ 18,444 | 🐛 376 | 🌐 TypeScript | 📅 2026-10-29 - Vite & Vue powered static site generator.
+* [VitePress](https://github.com/vuejs/vitepress) ⭐ 18,451 | 🐛 376 | 🌐 TypeScript | 📅 2026-10-29 - Vite & Vue powered static site generator.
 * [îles](https://github.com/ElMassimo/iles) ⭐ 1,163 | 🐛 41 | 🌐 TypeScript | 📅 2026-04-10 - Islands of interactivity, the joyful site generator
 * [Bloggrify](https://github.com/bloggrify/bloggrify) ⭐ 168 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-08 - Nuxt Content layer for blogging, with themes, SEO, RSS and analytics preconfigured.
 
 #### Other
 
 * [Fes.js](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) ⭐ 1,660 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-14 - An easy-to-use front-end application framework based on vue3.
-* [CabloyJS](https://github.com/zhennann/cabloy) ⭐ 984 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-31 The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
+* [CabloyJS](https://github.com/zhennann/cabloy) ⭐ 984 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-01 The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
 * [vue-notion](https://github.com/janniks/vue-notion) ⭐ 921 | 🐛 24 | 🌐 Vue | 📅 2024-09-05 - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 * [Vue-Low-Code](https://github.com/KlausSchaefers/vue-low-code) ⭐ 389 | 🐛 15 | 🌐 JavaScript | 📅 2025-10-20 - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
 * [DataFormsJS](https://github.com/dataformsjs/dataformsjs) ⭐ 197 | 🐛 0 | 🌐 JavaScript | 📅 2025-07-31 - A minimal routing and web service framework that uses Vue as a templating engine.
@@ -1008,7 +1008,7 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *Layout for the overall / main view*
 
-* [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⭐ 10,796 | 🐛 204 | 🌐 TypeScript | 📅 2026-10-24 - Component to scroll a large amount of elements efficiently (Vue 2.x).
+* [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) ⭐ 10,797 | 🐛 204 | 🌐 TypeScript | 📅 2026-10-24 - Component to scroll a large amount of elements efficiently (Vue 2.x).
 * [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) ⭐ 7,397 | 🐛 270 | 🌐 JavaScript | 📅 2024-05-09 - A draggable and resizable grid layout, for Vue.js.
 * [vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list) ⭐ 4,496 | 🐛 79 | 🌐 JavaScript | 📅 2024-05-08 - A vue (2.x) component support big data by using virtual scroll list.
 * [splitpanes](https://github.com/antoniandre/splitpanes) ⭐ 2,249 | 🐛 30 | 🌐 Vue | 📅 2026-08-12 - A Vue JS reliable, simple and touch-ready panes splitter / resizer.
@@ -1027,9 +1027,9 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 *Tables / data grids*
 
-* [tanstack-table](https://github.com/tanstack/table) ⭐ 28,538 | 🐛 79 | 🌐 TypeScript | 📅 2026-10-21 - Headless UI for building powerful tables & datagrids.
-* [ag-grid-vue](https://github.com/ag-grid/ag-grid) ⭐ 15,670 | 🐛 131 | 🌐 TypeScript | 📅 2026-10-31 - Vue adaptor for ag-Grid.
-* [vxe-table](https://github.com/x-extends/vxe-table) ⭐ 8,628 | 🐛 1,347 | 🌐 TypeScript | 📅 2026-10-27 - Vue form/table solution.
+* [tanstack-table](https://github.com/tanstack/table) ⭐ 28,537 | 🐛 79 | 🌐 TypeScript | 📅 2026-10-21 - Headless UI for building powerful tables & datagrids.
+* [ag-grid-vue](https://github.com/ag-grid/ag-grid) ⭐ 15,671 | 🐛 131 | 🌐 TypeScript | 📅 2026-10-31 - Vue adaptor for ag-Grid.
+* [vxe-table](https://github.com/x-extends/vxe-table) ⭐ 8,629 | 🐛 1,347 | 🌐 TypeScript | 📅 2026-10-27 - Vue form/table solution.
 * [vue-cheetah-grid](https://github.com/future-architect/cheetah-grid) ⭐ 1,542 | 🐛 36 | 🌐 JavaScript | 📅 2026-08-20 - A high-performance grid engine that work on a canvas for Vue.js.
 * [Vue Datatable](https://github.com/laravel-enso/vuedatatable) ⭐ 633 | 🐛 2 | 🌐 PHP | 📅 2026-10-02 - VueJS powered Datatable with Laravel server-side loading and JSON template setup
 * [vue3-easy-data-table](https://github.com/HC200ok/vue3-easy-data-table) ⭐ 554 | 🐛 125 | 🌐 Vue | 📅 2024-06-06 - A easy-to-use data table component made with Vue.js 3.x, referring to the API and UI of data table component in Vuetify 2.
@@ -1040,14 +1040,14 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 * [vue-datagrid](https://github.com/revolist/vue-datagrid) ⭐ 210 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-30 - Vue grid wrapper for powerful webcomponent revo-grid with excel like rich edit and behavior.
 * [GridSheet](https://github.com/walkframe/gridsheet) ⭐ 198 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-28 - Highly customizable spreadsheet engine with formula support, multi-sheet references, and a Vue3 wrapper built on a Preact core.
 * [Jordium Gantt Vue3](https://github.com/nelson820125/jordium-gantt-vue3) ⭐ 132 | 🐛 1 | 🌐 Vue | 📅 2026-10-14 - Vue3 Gantt chart component with Resource View, task dependencies, and project scheduling capabilities.
-* [vueye-datatable](https://github.com/boussadjra/vueye-table) ⭐ 111 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-31 - Vueye data table is a responsive data table component based on Vue.js 2, it organizes your data per pages in order to navigate easily.
+* [vueye-datatable](https://github.com/boussadjra/vueye-table) ⭐ 111 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-31 - Vueye data table is a responsive data table component based on Vue.js 2, it organizes your data per pages in order to navigate easily.
 * [vue-grid](https://github.com/dzwillia/vue-grid) ⭐ 107 | 🐛 0 | 🌐 Vue | 📅 2024-03-26 - A flexible grid component for Vue.js
 * [hy-vue-gantt](https://github.com/Xeyos88/HyVueGantt) ⭐ 42 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-21 - A powerful and flexible Gantt chart component for Vue 3 applications.
 * [vue-quintable](https://github.com/Quintetio/vue-quintable) ⭐ 31 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-19 - A responsive and highly configurable table based on Vue 2.x and Bootstrap 4.x
 * [vuetify-drilldown-table](https://github.com/webdevnerdstuff/vuetify-drilldown-table) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-29 - The Vuetify Drilldown Table is a powerful component that enhances the functionality of the Vuetify framework's v-data-table and v-data-table-server. It provides a recursive table structure, allowing you to display hierarchical data in a nested format.
 * [Vue3 Pivottable](https://github.com/vue-pivottable/vue3-pivottable) ⭐ 16 | 🐛 12 | 🌐 Vue | 📅 2026-04-05 – A Vue 3 port of the jQuery-based PivotTable.js.
-* [vtable-guild](https://github.com/parade0393/vtable-guild) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible `columns` API. Ships with switchable ant-design-vue / element-plus theme presets.
-* [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) ⭐ 11 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-01 - A canvas-based spreadsheet engine with zero dependencies, rendering 100K+ rows at 60fps with sorting, filtering, formulas, and collaboration.
+* [vtable-guild](https://github.com/parade0393/vtable-guild) ⭐ 14 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-01 - Vue 3 table with row and column virtualization, sorting, filtering, selection and an ant-design-vue compatible `columns` API. Ships with switchable ant-design-vue / element-plus theme presets.
+* [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) ⭐ 11 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-01 - A canvas-based spreadsheet engine with zero dependencies, rendering 100K+ rows at 60fps with sorting, filtering, formulas, and collaboration.
 * [@ioi-dev/vue-table](https://github.com/Rawand-Hawez/ioi-vue-table) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-10 - Performance-first Vue 3 datatable with virtualization, selection, editing, and CSV export.
 * [vue-table-component](https://vue-table-component.spatie.be/) - A straight to the point Vue component to display tables.
 * [@lossendae/vue-table](https://lossendae.github.io/vue-table) - Simple table component for Vue.js 2.x with pagination and sortable columns.
@@ -1086,14 +1086,14 @@ These projects are exceptionally high quality, have a proven trackrecord, and ar
 
 Tooltips / popovers
 
-* [v-tooltip](https://github.com/Akryum/vue-tooltip) ⭐ 3,459 | 🐛 162 | 🌐 TypeScript | 📅 2026-09-10 - Easy tooltips with Vue 2.x.
+* [v-tooltip](https://github.com/Akryum/vue-tooltip) ⭐ 3,458 | 🐛 162 | 🌐 TypeScript | 📅 2026-09-10 - Easy tooltips with Vue 2.x.
 * [vue-popper-lite](https://github.com/jambonn/vue-popper-lite) ⭐ 4 | 🐛 0 | 🌐 Vue | 📅 2024-01-11 - A popover component based on [popper.js tree shaking](https://popper.js.org/docs/v2/#popper-lite-tree-shaking) for Vue 3 written by TypeScript.
 
 #### Overlay
 
 *Overlay / modal / alert / dialog / lightbox / popup*
 
-* [v-viewer](https://github.com/mirari/v-viewer) ⭐ 2,638 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-30 - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js](https://github.com/fengyuanchen/viewerjs) ⭐ 8,243 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-16
+* [v-viewer](https://github.com/mirari/v-viewer) ⭐ 2,638 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-30 - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js](https://github.com/fengyuanchen/viewerjs) ⭐ 8,244 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-16
 * [vue-final-modal](https://github.com/hunterliu1003/vue-final-modal) ⭐ 1,013 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-26 Tailwind-friendly, highly customizable, stackable modal component.
 * [vue-sweetalert2](https://github.com/avil13/vue-sweetalert2) ⭐ 663 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-04 - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 * [vodal](https://github.com/chenjiahan/vodal) ⭐ 376 | 🐛 8 | 🌐 CSS | 📅 2024-03-28 - A vue modal with animations.
@@ -1111,7 +1111,7 @@ Tooltips / popovers
 
 #### Menu
 
-* [vue-bottom-sheet](https://github.com/webzlodimir/vue-bottom-sheet) ⭐ 233 | 🐛 13 | 🌐 Vue | 📅 2024-07-13 - A swipeable bottom sheet component for Vue.js created with Hammer.js
+* [vue-bottom-sheet](https://github.com/webzlodimir/vue-bottom-sheet) ⭐ 232 | 🐛 13 | 🌐 Vue | 📅 2024-07-13 - A swipeable bottom sheet component for Vue.js created with Hammer.js
 * [vue-navigation-bar](https://github.com/johndatserakis/vue-navigation-bar) ⭐ 190 | 🐛 2 | 🌐 Vue | 📅 2024-04-16 - A simple, pretty navbar for your Vue projects.
 * [v-selectmenu](https://github.com/TerryZ/v-selectmenu) ⭐ 189 | 🐛 12 | 🌐 JavaScript | 📅 2025-03-09 - A simple, easier and highly customized menu solution for Vue2.
 * [vue-tree-navigation](https://github.com/MisRob/vue-tree-navigation) ⭐ 158 | 🐛 15 | 🌐 Vue | 📅 2025-10-27 - Vue.js 2 tree navigation with vue-router support
@@ -1124,7 +1124,7 @@ Tooltips / popovers
 
 #### Carousel
 
-* [swiper](https://github.com/nolimits4web/swiper) ⭐ 41,912 | 🐛 230 | 🌐 TypeScript | 📅 2026-10-30 - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
+* [swiper](https://github.com/nolimits4web/swiper) ⭐ 41,914 | 🐛 231 | 🌐 TypeScript | 📅 2026-10-30 - Official Swiper component for Vue 3. Tree shakable, SSR support, typing, a11y and a lot more
 * [@egjs/vue-flicking](https://github.com/naver/egjs-flicking/blob/master/packages/vue3-flicking/README.md) ⭐ 2,922 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-29 - It's reliable, flexible and extendable carousel for Vue.js 2 & 3.
 * [vue3-carousel](https://github.com/ismail9k/vue3-carousel) ⭐ 885 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-02 - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 * [vue-flux](https://github.com/deulos/vue-flux) ⭐ 551 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-26 - Image slider which comes with 20 cool transitions.
@@ -1136,9 +1136,9 @@ Tooltips / popovers
 #### Charts
 
 * [vue-echarts](https://github.com/ecomfe/vue-echarts) ⭐ 10,748 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-28 - Vue.js component for Apache ECharts™.
-* [vue-chartjs](https://github.com/apertureless/vue-chartjs) ⭐ 5,718 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-30 - Vue.js wrapper for Chart.js.
+* [vue-chartjs](https://github.com/apertureless/vue-chartjs) ⭐ 5,718 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-31 - Vue.js wrapper for Chart.js.
 * [vue-data-ui](https://github.com/graphieros/vue-data-ui) ⭐ 2,455 | 🐛 0 | 🌐 Vue | 📅 2026-10-29 - Vue 3 chart library with 60+ components. Official site: <https://vue-data-ui.graphieros.com/>
-* [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) ⭐ 1,339 | 🐛 0 | 🌐 Vue | 📅 2026-10-31 - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js) ⭐ 15,183 | 🐛 277 | 🌐 JavaScript | 📅 2026-10-31.
+* [vue-apexcharts](https://github.com/apexcharts/vue-apexcharts) ⭐ 1,339 | 🐛 0 | 🌐 Vue | 📅 2026-10-31 - Vue.js component for [ApexCharts](https://github.com/apexcharts/apexcharts.js) ⭐ 15,185 | 🐛 281 | 🌐 JavaScript | 📅 2026-10-31.
 * [vue-chartkick](https://github.com/ankane/vue-chartkick) ⭐ 748 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-24 - Create beautiful JavaScript charts with one line of Vue
 * [flowchart-vue](https://github.com/joyceworks/flowchart-vue) ⭐ 361 | 🐛 4 | 🌐 Vue | 📅 2026-10-23 - Flowchart & Flowchart designer component for Vue.js.
 * [vue-speedometer](https://github.com/palerdot/vue-speedometer) ⭐ 64 | 🐛 5 | 🌐 JavaScript | 📅 2024-06-18 - Vue component for showing speedometer like gauge using d3.
@@ -1151,15 +1151,15 @@ Tooltips / popovers
 
 * [vue-timer-hook](https://github.com/riderx/vue-timer-hook) ⭐ 182 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-26 - Vue 3 Timer module inspired by react-timer-hook
 * [v-idle](https://github.com/malekim/v-idle) ⭐ 69 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-18 - A Vue.js plugin to detect idle/non-active users.
-* [Clock UI](https://github.com/clock-ui/clock-ui) ⭐ 5 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-01 - Accurate analog clock components with timezone support, theming through CSS custom properties, and no dependencies.
+* [Clock UI](https://github.com/clock-ui/clock-ui) ⭐ 5 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-01 - Accurate analog clock components with timezone support, theming through CSS custom properties, and no dependencies.
 
 #### Calendar
 
 *Display non-editable events in a Calendar*
 
-* [schedule-x](https://github.com/schedule-x/schedule-x) ⭐ 2,606 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-31 - A material design event calendar. Customizable, light- and dark modes & multilingual.
+* [schedule-x](https://github.com/schedule-x/schedule-x) ⭐ 2,607 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-31 - A material design event calendar. Customizable, light- and dark modes & multilingual.
 * [vue-simple-calendar](https://github.com/richardtallent/vue-simple-calendar) ⭐ 935 | 🐛 3 | 🌐 Vue | 📅 2026-10-17 - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
-* [vue-functional-calendar](https://github.com/ManukMinasyan/vue-functional-calendar) ⭐ 473 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-31 - Lightweight, high performance calendar component(Date Picker, Date Range) based on Vue.
+* [vue-functional-calendar](https://github.com/ManukMinasyan/vue-functional-calendar) ⭐ 473 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-01 - Lightweight, high performance calendar component(Date Picker, Date Range) based on Vue.
 * [vue-cal](https://github.com/antoniandre/vue-cal) ⭐ 303 | 🐛 22 | 🌐 JavaScript | 📅 2026-08-08 - A Vue JS full calendar, no dependency, no BS. 🤘.
 * [qalendar](https://github.com/tomosterlund/qalendar) ⭐ 293 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-31 - An event calendar and datepicker for Vue 3
 * [vue-tailwind-datepicker](https://github.com/elreco/vue-tailwind-datepicker) ⭐ 248 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-21 - A Vue 3 Datepicker using Tailwind CSS 3
@@ -1172,14 +1172,14 @@ Tooltips / popovers
 * [@vue-leaflet/vue-leaflet](https://github.com/vue-leaflet/vue-leaflet) ⭐ 859 | 🐛 102 | 🌐 Vue | 📅 2024-07-10 - Vue 3 components for Leaflet (1.x) maps.
 * [vue3-openlayers](https://github.com/MelihAltintas/vue3-openlayers) ⭐ 798 | 🐛 15 | 🌐 Vue | 📅 2026-02-27 - Vue 3 components to work with OpenLayers.
 * [vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) ⭐ 135 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-30 - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
-* [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) ⭐ 68 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-16 - Vue 2.x 3D earth visualization JS development platform.
+* [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) ⭐ 68 | 🐛 0 | 🌐 Vue | 📅 2026-10-31 - Vue 2.x 3D earth visualization JS development platform.
 * [@maxel01/vue-leaflet](https://github.com/maxel01/vue-leaflet) ⭐ 55 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-27 - Vue 3 components for Leaflet (2.x) maps.
 * [map-chart](https://github.com/noeGnh/map-chart) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-29 - Vue 3 and React components for displaying dynamic data on a world, continents, countries and custom maps.
 * [mapmetrics-gl](https://github.com/MapMetrics/mapmetrics-gl) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-27 - Mapbox GL JS-compatible mapping library with built-in tiles, geocoding, routing, and search.
 
 #### Audio / Video
 
-* [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) ⭐ 802 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-31 - Vue HTML5 audio visualization components.
+* [vue-audio-visual](https://github.com/staskobzar/vue-audio-visual) ⭐ 802 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-31 - Vue HTML5 audio visualization components.
 * [vue-use-sound](https://github.com/vueuse/sound) ⭐ 560 | 🐛 21 | 🌐 TypeScript | 📅 2024-12-28 - A Vue Hook for playing sound effects.
 * [vue-h5-audio-controls](https://github.com/cycjimmy/vue-h5-audio-controls) ⭐ 12 | 🐛 15 | 🌐 Vue | 📅 2026-08-10 - A simple h5 music controller for Vue.
 * [Vue-Player](https://github.com/display-design-studio/vue-player) ⭐ 11 | 🐛 0 | 🌐 Vue | 📅 2024-08-06 - Lightweight, customizable, and easy-to-implement vue video player.
@@ -1188,13 +1188,13 @@ Tooltips / popovers
 
 #### Infinite Scroll
 
-* [virtua](https://github.com/inokawa/virtua) ⭐ 3,756 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-31 - A zero-config, fast and small (\~3kB) virtual list component for React and Vue
+* [virtua](https://github.com/inokawa/virtua) ⭐ 3,758 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-31 - A zero-config, fast and small (\~3kB) virtual list component for React and Vue
 * [@egjs/vue-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) ⭐ 2,364 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-30 - Arrange infinite card elements according to various layout types like masonry for Vue.js 2.
 * [vue-infinity](https://github.com/isaact/vue-infinity) ⭐ 151 | 🐛 2 | 🌐 Vue | 📅 2026-07-21 - An easy-to-use virtual list component for Vue 3. Supports configurable grid layout, horizontal/vertical scroll, scroll snapping, seeking, ssr
 
 #### Markdown
 
-* [markstream-vue](https://github.com/Simon-He95/markstream-vue) ⭐ 3,046 | 🐛 0 | 🌐 Vue | 📅 2026-10-31 - Streaming Markdown renderer for Vue 3, Nuxt, and VitePress AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
+* [markstream-vue](https://github.com/Simon-He95/markstream-vue) ⭐ 3,048 | 🐛 0 | 🌐 Vue | 📅 2026-11-01 - Streaming Markdown renderer for Vue 3, Nuxt, and VitePress AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
 * [@f3ve/vue-markdown-it](https://github.com/f3ve/vue-markdown-it) ⭐ 38 | 🐛 2 | 🌐 Vue | 📅 2024-10-26 - A markdown-it component for Vue3. Easy to use and fully typed.
 * [Vue Markdown](https://github.com/litingyes/vue-markdown) ⭐ 6 | 🐛 15 | 🌐 Vue | 📅 2025-12-02 - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
 * [markdown-design](https://github.com/ZeroOneJs/markdown-design) ⭐ 5 | 🐛 0 | 🌐 Vue | 📅 2026-03-27 - An out-of-the-box Vue 3 Markdown component with real-time rendering, featuring TOC generation, full-text search, and more.
@@ -1212,8 +1212,8 @@ Tooltips / popovers
 
 #### Graph
 
-* [vue-flow](https://github.com/bcakmakoglu/vue-flow) ⭐ 6,926 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-14 - Interactive, customizeabe, graph & flowchart editor for Vue3
-* [v-network-graph](https://github.com/dash14/v-network-graph) ⭐ 647 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-31 - An interactive SVG based network-graph visualization component for Vue 3.
+* [vue-flow](https://github.com/bcakmakoglu/vue-flow) ⭐ 6,925 | 🐛 19 | 🌐 TypeScript | 📅 2026-07-14 - Interactive, customizeabe, graph & flowchart editor for Vue3
+* [v-network-graph](https://github.com/dash14/v-network-graph) ⭐ 647 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-01 - An interactive SVG based network-graph visualization component for Vue 3.
 * [vue-skia](https://github.com/rustq/vue-skia) ⭐ 326 | 🐛 4 | 🌐 Rust | 📅 2024-09-10 - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 * [vnodes](https://github.com/txlabs/vnodes) ⭐ 140 | 🐛 0 | 🌐 JavaScript | 📅 2024-12-14 - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
 * [coya](https://github.com/AlexanderMykulych/coya) ⭐ 74 | 🐛 33 | 🌐 TypeScript | 📅 2024-08-10 - Diagram drawing library (vue3 only)
@@ -1236,14 +1236,14 @@ Tooltips / popovers
 
 #### Miscellaneous
 
-* [tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 9,064 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-27 - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+* [tsParticles](https://github.com/matteobruni/tsparticles) ⭐ 9,065 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-27 - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 * [vue-advanced-chat](https://github.com/antoine92190/vue-advanced-chat) ⭐ 2,084 | 🐛 92 | 🌐 TypeScript | 📅 2026-09-10 - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 * [vue-kanban](https://github.com/BrockReece/vue-kanban) ⭐ 825 | 🐛 29 | 🌐 JavaScript | 📅 2026-04-14 - A flexible drag and drop kanban board component
 * [vue-command](https://github.com/ndabAP/vue-command) ⭐ 394 | 🐛 19 | 🌐 Vue | 📅 2026-03-16 - A fully working Vue.js terminal emulator
 * [v-offline](https://github.com/vinayakkulkarni/v-offline) ⭐ 379 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-29 - Simple, tiny and easy to use detection of offline & online events for your Vue app (less than 390b minified)
 * [vue-web-terminal](https://github.com/tzfun/vue-web-terminal) ⭐ 353 | 🐛 0 | 🌐 Vue | 📅 2026-03-25 - 💻 A feature-rich and powerful web terminal plugin for vue2 & vue3.(功能强大的网页命令行终端插件)
-* [vue-word-highlighter](https://github.com/kawamataryo/vue-word-highlighter) ⭐ 339 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-31 - The word highlighter library for Vue 2 and Vue 3.
-* [vue3-emoji-picker](https://github.com/delowardev/vue3-emoji-picker) ⭐ 241 | 🐛 17 | 🌐 Vue | 📅 2026-10-31 - Simple and Powerful Emoji Picker for Vue3.
+* [vue-word-highlighter](https://github.com/kawamataryo/vue-word-highlighter) ⭐ 339 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-01 - The word highlighter library for Vue 2 and Vue 3.
+* [vue3-emoji-picker](https://github.com/delowardev/vue3-emoji-picker) ⭐ 241 | 🐛 6 | 🌐 Vue | 📅 2026-11-01 - Simple and Powerful Emoji Picker for Vue3.
 * [vue-fixed-header](https://github.com/potato4d/vue-fixed-header) ⭐ 167 | 🐛 19 | 🌐 Vue | 📅 2026-10-31 - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.
 * [vue-image-zoomer](https://github.com/samjonesigd/vue-image-zoomer) ⭐ 116 | 🐛 0 | 🌐 Vue | 📅 2026-10-09 - image zoom component for Vue.js 2 & 3, that also works on touch devices.
 * [vue-identify-network](https://github.com/vinayakkulkarni/vue-identify-network) ⭐ 70 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-28 - ⚡️Identify what kinda internet your users are using!
@@ -1261,7 +1261,7 @@ Tooltips / popovers
 
 #### Tabs
 
-* [vue-lumino](https://github.com/tupilabs/vue-lumino) ⭐ 99 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-31 - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
+* [vue-lumino](https://github.com/tupilabs/vue-lumino) ⭐ 99 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-01 - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 * [vue3-tabor](https://github.com/daylenjeez/vue3-tabor) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-07 - A versatile Vue 3 tabs component with rich API, supporting keep-alive and iframe integration.
 
 #### Form
@@ -1311,10 +1311,10 @@ Tooltips / popovers
 
 * [vuedraggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) ⭐ 4,010 | 🐛 108 | 🌐 Vue | 📅 2026-03-13 - Vue component allowing drag-and-drop sorting module, support Vue>=v3 or Vue>=2.7. Based on Sortable.js.
 * [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) ⭐ 3,583 | 🐛 132 | 🌐 Vue | 📅 2024-07-30 - Vue2 component for draggable and resizable elements.
-* [vue3-dnd](https://github.com/hcg1023/vue3-dnd) ⭐ 713 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-31 - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
+* [vue3-dnd](https://github.com/hcg1023/vue3-dnd) ⭐ 713 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-01 - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 * [vue-fluid-dnd](https://github.com/carlosjorger/vue-fluid-dnd) ⭐ 518 | 🐛 3 | 🌐 TypeScript | 📅 2025-11-30 - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 * [sortablejs-vue3](https://github.com/MaxLeiter/sortablejs-vue3) ⭐ 415 | 🐛 39 | 🌐 Vue | 📅 2026-02-13 - A Vue 3 component acting as a thin wrapper around SortableJS
-* [Vue DnD Kit](https://github.com/zizigy/vue-dnd-kit) ⭐ 254 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-31 - A lightweight, performant drag and drop toolkit for Vue 3 with composable API, keyboard navigation, accessibility support, and advanced customization options. Supports any cases, and touch devices. Inspired by React DnD Kit
+* [Vue DnD Kit](https://github.com/zizigy/vue-dnd-kit) ⭐ 254 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-01 - A lightweight, performant drag and drop toolkit for Vue 3 with composable API, keyboard navigation, accessibility support, and advanced customization options. Supports any cases, and touch devices. Inspired by React DnD Kit
 
 ##### Type Select
 
@@ -1345,11 +1345,11 @@ Tooltips / popovers
 
 ##### Rich Text Editing
 
-* [tiptap](https://github.com/heyscrumpy/tiptap) ⭐ 38,913 | 🐛 904 | 🌐 TypeScript | 📅 2026-10-30 - A renderless and extendable rich-text editor for Vue.js
+* [tiptap](https://github.com/heyscrumpy/tiptap) ⭐ 38,921 | 🐛 910 | 🌐 TypeScript | 📅 2026-10-30 - A renderless and extendable rich-text editor for Vue.js
 * [ckeditor5-vue](https://github.com/ckeditor/ckeditor5-vue) ⭐ 387 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-30 - An official CKEditor 5 rich text editor component for Vue.js.
 * [vue-trix](https://github.com/hanhdt/vue-trix) ⭐ 253 | 🐛 48 | 🌐 Vue | 📅 2026-01-04 - Simple and lightweight Trix rich-text editor for Vue.js
-* [vue-quilly](https://github.com/alekswebnet/vue-quilly) ⭐ 119 | 🐛 2 | 🌐 Vue | 📅 2026-10-30 - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
-* [blok](https://github.com/JackUait/blok) ⭐ 47 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-31 - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
+* [vue-quilly](https://github.com/alekswebnet/vue-quilly) ⭐ 119 | 🐛 2 | 🌐 Vue | 📅 2026-10-31 - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
+* [blok](https://github.com/JackUait/blok) ⭐ 48 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-01 - Headless block-based rich text editor with a Vue 3 adapter, outputs JSON instead of HTML.
 * [vue-froala-wysiwyg](https://github.com/froala/vue-froala-wysiwyg) ⭐ 3 | 🐛 91 | 🌐 JavaScript | 📅 2026-10-27 - Official VueJS plugin for Froala WYSIWIG HTML Editor.
 * [CyteEditor](https://github.com/cyte-editor/cyteeditor-examples) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-08-21 - Rich text editor SDK with Word/Excel paste fidelity, built-in snapshot & version comparison, and official adapters for Vue 3, Vue 2, React, Svelte, Angular, and Vanilla JS.
 
@@ -1392,7 +1392,7 @@ Tooltips / popovers
 
 #### Canvas
 
-* [vue-konva](https://github.com/rafaesc/vue-konva) ⭐ 1,360 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04 - Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.
+* [vue-konva](https://github.com/rafaesc/vue-konva) ⭐ 1,359 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-04 - Vue & Canvas - JavaScript library for drawing complex canvas graphics using Vue.
 * [vue3-signature](https://github.com/WangShayne/vue3-signature) ⭐ 130 | 🐛 0 | 🌐 Vue | 📅 2026-09-06 - A electronic signature component for Vue 3
 
 #### Link Preview
@@ -1419,7 +1419,7 @@ Tooltips / popovers
 
 #### Form
 
-* [FormKit](https://github.com/formkit/formkit) ⭐ 4,781 | 🐛 78 | 🌐 TypeScript | 📅 2026-07-24 - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
+* [FormKit](https://github.com/formkit/formkit) ⭐ 4,783 | 🐛 78 | 🌐 TypeScript | 📅 2026-07-24 - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 * [Form Builder](https://github.com/laravel-enso/formbuilder) ⭐ 123 | 🐛 0 | 🌐 PHP | 📅 2026-09-11 - Json template based form builder, based on Vue and Laravel.
 * [VueFormify](https://github.com/mateenagy/vue-formify) ⭐ 63 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-06 - Build powerful, type-safe forms in Vue 3.
 * [Vorm](https://github.com/Flo0806/vorm) ⚠️ Archived - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
@@ -1433,14 +1433,14 @@ Tooltips / popovers
 
 ##### Validation
 
-* [vee-validate](https://github.com/logaretm/vee-validate) ⭐ 11,259 | 🐛 173 | 🌐 TypeScript | 📅 2026-03-04 - Simple Vue.js input validation plugin.
+* [vee-validate](https://github.com/logaretm/vee-validate) ⭐ 11,260 | 🐛 173 | 🌐 TypeScript | 📅 2026-03-04 - Simple Vue.js input validation plugin.
 * [vuelidate](https://github.com/monterail/vuelidate) ⭐ 6,862 | 🐛 212 | 🌐 JavaScript | 📅 2025-06-10 - Simple, lightweight model-based validation for Vue.js.
-* [vest](https://github.com/ealush/vest) ⭐ 2,669 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-31 - 🦺 Declarative form validation framework inspired by unit testing.
+* [vest](https://github.com/ealush/vest) ⭐ 2,669 | 🐛 76 | 🌐 TypeScript | 📅 2026-11-01 - 🦺 Declarative form validation framework inspired by unit testing.
 * [vorms](https://github.com/Mini-ghost/vorms) ⭐ 719 | 🐛 16 | 🌐 TypeScript | 📅 2024-11-02 - Vue Form Validate with Composition API.
 * [regle](https://github.com/victorgarciaesgi/regle) ⭐ 513 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-13 - ✅ Headless form validation library for Vue.js.
-* [FormVuelar](https://github.com/janiskelemen/formvuelar) ⭐ 298 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-26 - Vue form components with server-side validation in mind
+* [FormVuelar](https://github.com/janiskelemen/formvuelar) ⭐ 298 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-31 - Vue form components with server-side validation in mind
 * [vue-uform](https://github.com/tu6ge/vue-uform) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2025-08-26 - an component-first, unstyled, flexible form validation library for Vue 3
-* [NotForm](https://github.com/favorodera/notform) ⭐ 21 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26 - Headless, composable form validation for Vue.js. Bring your own UI and schema (Zod, Valibot, ArkType, or any Standard-Schema compliant validator).
+* [NotForm](https://github.com/favorodera/notform) ⭐ 21 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - Headless, composable form validation for Vue.js. Bring your own UI and schema (Zod, Valibot, ArkType, or any Standard-Schema compliant validator).
 * [validation-composable](https://github.com/nexxtmove/validation-composable) ⭐ 19 | 🐛 1 | 🌐 TypeScript | 📅 2025-08-29 - ✅ Lightweight validation for Vue — just 40 lines of code.
 * [validup](https://github.com/tada5hi/validup) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-31 - Composable, path-based validation with a Vue 3 composable (`@validup/vue`) for reactive forms, groups, and structured issues.
 * [@vuito/vue](https://github.com/mathix420/vuito) ⭐ 5 | 🐛 6 | 🌐 TypeScript | 📅 2025-02-03 - Simple, lightweight, isomorphic, and template-based validation library.
@@ -1464,7 +1464,7 @@ Tooltips / popovers
 
 * [vue-router](https://github.com/vuejs/vue-router) ⭐ 18,854 | 🐛 124 | 🌐 JavaScript | 📅 2026-04-14 - The official router for Vue.js.
 * [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) ⚠️ Archived - Next Generation file based typed routing for Vue Router.
-* [kitbag/router](https://github.com/kitbagjs/router) ⭐ 254 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-31 - A type safe router for vuejs
+* [kitbag/router](https://github.com/kitbagjs/router) ⭐ 254 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-31 - A type safe router for vuejs
 * [v-route-generate](https://github.com/weiquanju/v-route-generate) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-25 - A tool to generate routes for vue-router 4.x.
 * [vite-plugin-vue-middleware](https://github.com/awdr74100/vite-plugin-vue-middleware) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-03 - File-based navigation guards for Vue Router
 * [vue-router-citadel](https://github.com/Kassaila/vue-router-citadel) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18 - A middleware-driven navigation control system for Vue Router.
@@ -1489,11 +1489,11 @@ Tooltips / popovers
 
 #### Animation
 
-* [@formkit/auto-animate](https://github.com/formkit/auto-animate) ⭐ 13,948 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-10 Add motion to your apps with a single line of code
+* [@formkit/auto-animate](https://github.com/formkit/auto-animate) ⭐ 13,953 | 🐛 49 | 🌐 TypeScript | 📅 2026-07-10 Add motion to your apps with a single line of code
 * [vue-kinesis](https://github.com/Aminerman/vue-kinesis) ⭐ 1,497 | 🐛 24 | 🌐 JavaScript | 📅 2026-10-06 A set of components to create interactive animations
 * [vue-animate](https://github.com/asika32764/vue-animate) ⭐ 1,353 | 🐛 3 | 🌐 CSS | 📅 2025-02-24 - A Vue.js port of Animate.css. For use with Vue's built-in transitions.
-* [ssgoi](https://github.com/meursyphus/ssgoi) ⭐ 1,014 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-25 - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
-* [@lottiefiles/dotlottie-vue](https://github.com/LottieFiles/dotlottie-web) ⭐ 932 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-30 Official LottieFiles Vue component supporting the .lottie format (75% smaller files); convert and preview with [IconKing](https://iconking.net)
+* [ssgoi](https://github.com/meursyphus/ssgoi) ⭐ 1,014 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-01 - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
+* [@lottiefiles/dotlottie-vue](https://github.com/LottieFiles/dotlottie-web) ⭐ 934 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-30 Official LottieFiles Vue component supporting the .lottie format (75% smaller files); convert and preview with [IconKing](https://iconking.net)
 * [vue3-lottie](https://github.com/megasanjay/vue3-lottie) ⭐ 427 | 🐛 16 | 🌐 Vue | 📅 2025-08-22 A component for importing and displaying Lottie animations in Vue 3
 * [@morev/vue-transitions](https://github.com/morevm/vue-transitions) ⭐ 222 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-31 Transitions library for Vue 2 and 3 with no CSS needed
 * [vue-slide-up-down](https://github.com/danieldiekmeier/vue-slide-up-down) ⭐ 202 | 🐛 2 | 🌐 JavaScript | 📅 2024-12-14 Like jQuery's `slideUp` / `slideDown`, but for Vue!
@@ -1506,7 +1506,7 @@ Tooltips / popovers
 
 *Manage meta information in the document head*
 
-* [Unhead](https://github.com/unjs/unhead) ⭐ 1,312 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-31
+* [Unhead](https://github.com/unjs/unhead) ⭐ 1,312 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-01
 
 #### Portal
 
@@ -1544,7 +1544,7 @@ Tooltips / popovers
 
 *Utilities not directly related to the UI*
 
-* [vueuse](https://github.com/vueuse/vueuse) ⭐ 22,399 | 🐛 399 | 🌐 TypeScript | 📅 2026-10-29 - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
+* [vueuse](https://github.com/vueuse/vueuse) ⭐ 22,399 | 🐛 402 | 🌐 TypeScript | 📅 2026-10-31 - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
 * [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) ⭐ 4,293 | 🐛 146 | 🌐 TypeScript | 📅 2026-05-20 - 📲 On-demand components auto importing for Vue.
 * [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) ⭐ 3,798 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-03 - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
 * [vue-concurrency](https://github.com/MartinMalinda/vue-concurrency) ⭐ 361 | 🐛 32 | 🌐 TypeScript | 📅 2026-01-22 - library for encapsulating asynchronous operations and managing concurrency for Vue and Composition API.
@@ -1559,22 +1559,22 @@ Tooltips / popovers
 
 *Retrieve data over HTTP*
 
-* [tanstack-query](https://github.com/tanstack/query) ⭐ 50,503 | 🐛 167 | 🌐 TypeScript | 📅 2026-10-30 - Powerful asynchronous state management.
+* [tanstack-query](https://github.com/tanstack/query) ⭐ 50,508 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-01 - Powerful asynchronous state management.
 * [swrv](https://github.com/Kong/swrv) ⭐ 2,279 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-26 - Stale-while-revalidate data fetching for Vue.
 * [vue-api-query](https://github.com/robsontenorio/vue-api-query) ⭐ 1,658 | 🐛 12 | 🌐 JavaScript | 📅 2025-03-28 - Elegant and simple way to build requests for REST API.
 * [vue-request](https://github.com/Attojs/vue-request) ⭐ 1,393 | 🐛 44 | 🌐 TypeScript | 📅 2025-03-14 - ⚡️ Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination, and other cool features.
-* [@stitchapi/vue](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) ⭐ 21 | 🐛 126 | 🌐 TypeScript | 📅 2026-10-29 - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
+* [@stitchapi/vue](https://github.com/rejifald/StitchAPI/tree/main/packages/vue) ⭐ 21 | 🐛 120 | 🌐 TypeScript | 📅 2026-10-31 - Streaming-first StitchAPI bindings: typed, validated `useStitch` / `useStitchStream` composables that re-render as response deltas arrive.
 * [vue-vroom](https://github.com/frederikbache/vue-vroom) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-14 - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
 
 #### i18n
 
 *Internationalization / L10n / localization / translation*
 
-* [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally) ⭐ 4,901 | 🐛 474 | 🌐 TypeScript | 📅 2024-12-13 - VSCode extension for better Vue-i18n experiences.
-* [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) ⭐ 2,711 | 🐛 80 | 🌐 TypeScript | 📅 2026-10-30 - Vue I18n for Vue 3.
-* [vue-intlayer](https://github.com/aymericzip/intlayer) ⭐ 862 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-28 - Intlayer i18n solution for vue 3.
+* [vscode-vue-i18n-ally](https://github.com/antfu/vue-i18n-ally) ⭐ 4,900 | 🐛 474 | 🌐 TypeScript | 📅 2024-12-13 - VSCode extension for better Vue-i18n experiences.
+* [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next) ⭐ 2,711 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-01 - Vue I18n for Vue 3.
+* [vue-intlayer](https://github.com/aymericzip/intlayer) ⭐ 862 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-31 - Intlayer i18n solution for vue 3.
 * [v-google-translate](https://github.com/i7eo/v-google-translate) ⭐ 303 | 🐛 20 | 🌐 TypeScript | 📅 2025-01-20 - A component that use google translate to internationalize your Vue.js app.
-* [fluent-vue](https://github.com/Demivan/fluent-vue) ⭐ 283 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-31 - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
+* [fluent-vue](https://github.com/Demivan/fluent-vue) ⭐ 283 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-31 - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 * [tolgee/vue](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) ⭐ 261 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-09 - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 * [@i18n-micro/vue](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/vue) ⭐ 252 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-31 - Lightweight Vue 3 i18n bindings with strategy-based routing; part of the i18n-micro ecosystem.
 * [vue-next-i18n](https://github.com/Aaronlamz/vue-next-i18n) ⭐ 18 | 🐛 1 | 🌐 TypeScript | 📅 2024-04-09 - A lightweight internationalization plugin for Vue 3.
@@ -1604,7 +1604,7 @@ Tooltips / popovers
 
 ##### Pinia
 
-* [pinia-orm](https://github.com/CodeDredd/pinia-orm) ⭐ 529 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-25 - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
+* [pinia-orm](https://github.com/CodeDredd/pinia-orm) ⭐ 529 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-01 - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 * [@tauri-store/pinia](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) ⚠️ Archived - Persistent Pinia stores for Tauri.
 * [pinia-persistedstate-2](https://github.com/iendeavor/pinia-plugin-persistedstate-2) ⭐ 115 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-29 - Persist and rehydrate your Pinia state between page reloads.
 * [pinia-xstate](https://github.com/wobsoriano/pinia-xstate) ⭐ 65 | 🐛 2 | 🌐 TypeScript | 📅 2025-02-12 - Put your xstate state machines into a global pinia store.
@@ -1618,7 +1618,7 @@ Tooltips / popovers
 ##### Vuex Utilities
 
 * [jsonapi-vuex](https://github.com/mrichar1/jsonapi-vuex) ⭐ 154 | 🐛 7 | 🌐 JavaScript | 📅 2024-10-15 - Use a JSONAPI api with a Vuex store, with client-side restructuring/normalization of records.
-* [vuex-masked-modules](https://github.com/Silksofthesoul/vuex-masked-modules) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-18 - A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4.
+* [vuex-masked-modules](https://github.com/Silksofthesoul/vuex-masked-modules) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-31 - A Vuex plugin put data structure of the module in localStorage, with the ability to mask or encrypt the data to make it difficult to explore. Designed for Vue 3 and Vuex 4.
 
 #### GraphQL
 
@@ -1628,8 +1628,8 @@ Tooltips / popovers
 
 *Improve readability of code*
 
-* [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) ⭐ 4,589 | 🐛 191 | 🌐 TypeScript | 📅 2026-10-30 - Eslint plugin for Vue.js projects.
-* [vue-types](https://github.com/dwightjack/vue-types) ⭐ 583 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-30 - Vue Prop Types definitions.
+* [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) ⭐ 4,589 | 🐛 189 | 🌐 TypeScript | 📅 2026-10-31 - Eslint plugin for Vue.js projects.
+* [vue-types](https://github.com/dwightjack/vue-types) ⭐ 583 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-01 - Vue Prop Types definitions.
 * [vue-ts-types](https://github.com/FloEdelmann/vue-ts-types) ⭐ 13 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-30 - Lightweight TypeScript-first Vue prop type definitions.
 
 #### CSS
@@ -1665,7 +1665,7 @@ Payment utilities.
 
 ##### Stripe
 
-* [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) ⭐ 1,125 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-30 - A simple vue plugin for Stripe checkout.
+* [vue-stripe-checkout](https://github.com/jofftiquez/vue-stripe-checkout) ⭐ 1,125 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-01 - A simple vue plugin for Stripe checkout.
 * [vue-stripe-js](https://github.com/ectoflow/vue-stripe-js) ⚠️ Archived - Vue 3 components for Stripe.js
 
 ### Integrations
@@ -1677,8 +1677,8 @@ Payment utilities.
 * [vue-tg](https://github.com/deptyped/vue-telegram) ⭐ 281 | 🐛 16 | 🌐 TypeScript | 📅 2026-03-03 - Telegram Web Apps integration for Vue 3.
 * [vue-postgrest](https://github.com/technowledgy/vue-postgrest) ⭐ 91 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-30 - Vue.js integration for postgREST: flexible, powerful and easy to use.
 * [vue-tweet](https://github.com/DannyFeliz/vue-tweet) ⭐ 45 | 🐛 2 | 🌐 Vue | 📅 2026-07-13 - Vue 3 component that let you embed tweets in your App by only giving the tweet id
-* [@agentskit/vue](https://github.com/AgentsKit-io/agentskit) ⭐ 37 | 🐛 105 | 🌐 TypeScript | 📅 2026-10-31 - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
-* [recaptcha-vue](https://github.com/Souhailmakni/recaptcha-vue) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-25 - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
+* [@agentskit/vue](https://github.com/AgentsKit-io/agentskit) ⭐ 38 | 🐛 120 | 🌐 TypeScript | 📅 2026-11-01 - Vue 3 composable and headless chat components for building AI agents, with streaming, tools, memory and RAG.
+* [recaptcha-vue](https://github.com/Souhailmakni/recaptcha-vue) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-25 - Google reCAPTCHA v2 and v3 (score-based) via a single version prop, with v-model support, TypeScript and zero dependencies.
 * [@rollgate/sdk-vue](https://github.com/rollgate/sdks/tree/main/packages/sdk-vue) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-25 - Vue 3 feature flag SDK with composables, gradual rollouts, A/B testing and real-time updates. Backend: [Rollgate](https://rollgate.io)
 
 #### Vue CLI Plugins
@@ -1691,7 +1691,7 @@ Payment utilities.
 
 ### Dev Tools
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,500 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-30 - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,500 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-31 - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
 * [PocketMocker](https://github.com/tianchangNorth/pocket-mocker) ⭐ 525 | 🐛 3 | 🌐 TypeScript | 📅 2026-06-11 - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
 * [Vue Mess Detector](https://github.com/rrd108/vue-mess-detector) ⭐ 364 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-28 - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 * [Roundtable](https://github.com/askbudi/roundtable) ⭐ 128 | 🐛 7 | 🌐 Python | 📅 2025-10-06 - Zero-configuration MCP server that unifies multiple AI assistants (Claude Code, Cursor, GPT-4, etc.) into a single development workflow for Vue.js projects.
@@ -1722,7 +1722,7 @@ Payment utilities.
 
 #### Test
 
-* [vitest](https://github.com/vitest-dev/vitest) ⭐ 17,314 | 🐛 371 | 🌐 TypeScript | 📅 2026-10-30 - Next generation testing framework powered by Vite.
+* [vitest](https://github.com/vitest-dev/vitest) ⭐ 17,322 | 🐛 370 | 🌐 TypeScript | 📅 2026-11-01 - Next generation testing framework powered by Vite.
 * [Vue Testing Library](https://github.com/testing-library/vue-testing-library) ⭐ 1,118 | 🐛 37 | 🌐 JavaScript | 📅 2024-05-29 - Simple and complete testing utilities that encourage good testing practices. Based on DOM Testing Library and built upon the official Vue Test Utils.
 * [jest-serializer-vue-tjw](https://github.com/tjw-lint/vue3-snapshot-serializer) ⭐ 16 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-26 - Improved formatting of Jest Snapshots
 * [vue-hubble](https://github.com/crishellco/vue-hubble) ⚠️ Archived - A better way to select elements for UI testing in Vue.
@@ -1737,12 +1737,12 @@ Payment utilities.
 
 ##### Visual Studio Code
 
-* [Vue Language Tools (Volar)](https://github.com/vuejs/language-tools) ⭐ 6,741 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-31 - ⚡The Fastest Vue Language Support Extension
+* [Vue Language Tools (Volar)](https://github.com/vuejs/language-tools) ⭐ 6,743 | 🐛 71 | 🌐 TypeScript | 📅 2026-11-01 - ⚡The Fastest Vue Language Support Extension
 * [Vue VSCode Snippets](https://github.com/sdras/vue-vscode-snippets) ⭐ 1,336 | 🐛 28 | 🌐 JavaScript | 📅 2024-11-19 - Snippets that will supercharge your Vue workflow.
 
 ##### Intellij
 
-* [Vue.js support for WebStorm](https://github.com/JetBrains/intellij-plugins/tree/master/vuejs) ⭐ 2,279 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-31, IntelliJ IDEA, PhpStorm, PyCharm & RubyMine – official Vue.js support by JetBrains
+* [Vue.js support for WebStorm](https://github.com/JetBrains/intellij-plugins/tree/master/vuejs) ⭐ 2,279 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-01, IntelliJ IDEA, PhpStorm, PyCharm & RubyMine – official Vue.js support by JetBrains
 
 ##### Emacs
 
@@ -1750,17 +1750,17 @@ Payment utilities.
 
 *Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generator*
 
-* [Vite](https://github.com/vitejs/vite) ⭐ 83,631 | 🐛 822 | 🌐 TypeScript | 📅 2026-10-30 - Next generation frontend tooling. It's fast!
+* [Vite](https://github.com/vitejs/vite) ⭐ 83,651 | 🐛 826 | 🌐 TypeScript | 📅 2026-10-30 - Next generation frontend tooling. It's fast!
 * [vue-enterprise-boilerplate](https://github.com/bencodezen/vue-enterprise-boilerplate) ⭐ 7,770 | 🐛 7 | 🌐 SCSS | 📅 2026-01-26 - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
-* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,203 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-31 - Build cross-browser extensions with Vue, no config, one manifest for Chrome, Edge, Firefox and Safari.
-* [Create Vue](https://github.com/vuejs/create-vue) ⭐ 4,411 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-29
+* [Extension.js](https://github.com/extension-js/extension.js) ⭐ 5,203 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-01 - Build cross-browser extensions with Vue, no config, one manifest for Chrome, Edge, Firefox and Safari.
+* [Create Vue](https://github.com/vuejs/create-vue) ⭐ 4,411 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-01
 * [vuesion](https://github.com/vuesion/vuesion) ⭐ 2,872 | 🐛 0 | 🌐 Vue | 📅 2026-10-23 - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
-* [Mevn-CLI](https://github.com/madlabsinc/mevn-cli) ⭐ 832 | 🐛 16 | 🌐 JavaScript | 📅 2026-08-20 - Light speed setup for MEVN stack based apps.
+* [Mevn-CLI](https://github.com/madlabsinc/mevn-cli) ⭐ 832 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-31 - Light speed setup for MEVN stack based apps.
 * [mevn-boilerplate](https://github.com/mustafacagri/mevn-boilerplate) ⭐ 246 | 🐛 4 | 🌐 Vue | 📅 2024-09-17 - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 * [Vue3-SPA-starter-template](https://github.com/M-Media-Group/Vue3-SPA-starter-template) ⭐ 72 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-22 - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
 * [vue-x-platforms](https://github.com/NativeScript/vue-x-platforms) ⭐ 21 | 🐛 0 | 🌐 Vue | 📅 2024-02-01 - Vue running on Web, iOS, Android and Vision Pro.
 * [monorepo-template](https://github.com/Nagell/monorepo_template) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-19 - 🗂️ Vue 3 monorepo template with pnpm, Nx, Vite, Tailwind CSS, Storybook, TypeScript, and ready-to-use shared libraries.
-* [ILUMINATY](https://github.com/LuynoxRD/ILUMINATY) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28 - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
+* [ILUMINATY](https://github.com/LuynoxRD/ILUMINATY) ⭐ 3 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-01 - Vue 3 + Vite SSG template for editorial sites, directories, events and blogs with Sanity CMS integration.
 * [ScaffoldHub.io](https://scaffoldhub.io) - Generate full Vue applications with SQL, MongoDB or Firebase Firestore databases.
 * [VuePlay](https://christiankienle.github.io/vueplay/) - Generate disposable Vue playgrounds in seconds. Allows you to test things quickly.
 * [vue-starters-directory](https://shershen08.github.io/vue-starters-directory/) - Search for available scaffold projects and starter kits for VueJS. Features search and github stats are available.
@@ -1794,4 +1794,4 @@ Payment utilities.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
